@@ -1,0 +1,175 @@
+Observation Tower
+Farmhouse
+Shop
+High-Rise Building
+Chicken Coop
+Barracks
+Church
+Monastery
+Town Hall
+Skyscraper
+Stadium
+Pyramid
+Prison
+Lawyer's Chambers
+Hardware Store
+Brothel
+Office
+Factory Assembly Line
+Hairdresser
+Open-Plan Office
+Harbor
+Internet Cafe
+Cantine
+Orthodontist
+Kindergarten
+Market
+Open Air Market
+Massage Pactice
+Trade Fair Stand
+Gym
+Nail Salon
+Butchers
+School
+Tanning Salon
+Tax Advisor
+Supermarket
+Laundromat
+Ad Agency
+Sausage Stand
+Dentist
+Wig Store
+Glacier
+Forest
+Beach
+Meadow
+Desert
+Park
+Rainforest
+Oasis
+Savannah
+Waterfall
+Library
+Cinema
+Theatre
+Museum
+Bedroom
+Living Room
+Kitchen
+Garage
+Music Room
+Guest Room
+Basement
+Balcony
+Greenhouse
+Spaceship
+Train
+Caravan
+Bus
+Cemetery
+Zoo
+Circus
+Under The Bridge
+Arcade
+Army Base
+Art Gallery
+Baseball Diamond
+Bat Cave
+Behind A Waterfall
+Brewery
+Car Wash
+Clock Tower
+Cow Pasture
+Cyber Space
+Double Decker Bus
+Dungeon
+Elephant Graveyard
+Emergency Room
+Fire Station
+Gas Station
+Ghost Town
+Heaven
+Helicopter
+Jazz Club
+Junkyard
+Kick Boxing Studio
+Lost City
+Marina
+Meat Packing Plant
+No Man's Land
+An Oasis
+Ocean Floor
+Oil Rig
+Orchestra Pit
+Pier
+Pirate Ship
+Police Station
+Quicksand Pit
+Rain Forrest
+Recording Studio
+The Red Carpet
+Roller Rink
+Shooting Range
+Slaughter House
+Space Station
+Submarine
+Super Market
+Swamp
+Sweat Shop
+Tree House
+University
+A Villa
+Veranda
+Vineyard
+Wildlife Reserve
+Orchard
+Park Fountain
+Treehouse
+Dojo
+Lighthouse
+Breakroom
+Food Truck
+Garbage Dump
+Warehouse
+Prairie
+Dorm Room
+Pool Hall
+Sewer
+Tailor
+Rodeo
+Ski Lodge
+Haunted House
+Diner
+Bowling Alley
+Cornfield
+Parade Float
+Nuclear Bunker
+Drive-In Movie Theater
+Amusement Park
+5 Star Restaurant
+Battlefield
+Boardroom
+Cafe
+Construction Site
+Cabin
+Ship
+Comic Book Store
+Concert
+Airport
+Wedding Reception
+Assembly Line
+Waiting Room
+Radio
+Studio
+Barber/Salon
+Dive Bar
+Football Field
+Lab
+Animal Control
+Penthouse
+Barn
+Outer Space
+Farmers Market
+Castle
+Movie Set
+Casino

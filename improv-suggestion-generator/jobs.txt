@@ -1,0 +1,3884 @@
+Admiral
+CEO
+COO
+County Commissioner
+Governor
+Mayor
+School Superintendent
+University President
+General Manager
+General Superintendent
+Operations Manager
+Radio Station Manager
+City Alderman
+City Council Member
+Councilor
+Legislator
+Member of Congress
+Selectman
+Senator
+Tribal Council Member
+Advertising Director
+Advertising Executive
+Advertising Manager
+Promotions Director
+Promotions Manager
+VP Advertising
+VP Promotions
+Marketing Director
+VP Marketing
+District Sales Manager
+E-Commerce Director
+Export Manager
+Regional Sales Manager
+Sales Account Manager
+Sales Director
+Communication Manager
+Publicity Director
+Foundation Director
+Funding Coordinator
+Fundraising Director
+Business Unit Manager
+University Registrar
+Stadium Manager
+MIS Director
+Bank Branch Manager
+Banking Center Manager
+Banking Manager
+City Comptroller
+City Treasurer
+Comptroller
+Credit Manager
+Financial Director
+Financial Officer
+Fiscal Manager
+Manufacturing Director
+Plant Chief
+Plant Manager
+Plant Superintendent
+Contract Administrator
+Contracting Manager
+Procurement Manager
+Purchasing Director
+Sourcing Manager
+Airport Manager
+Logistics Manager
+Transportation Manager
+Warehouse Manager
+Compensation Director
+Job Analysis Manager
+Personnel Director
+Personnel Manager
+E-Learning Manager
+Labor Training Manager
+Beef Farm Operator
+Dairy Farm Manager
+Fish Hatchery Manager
+Greenhouse Manager
+Hatchery Manager
+Orchard Manager
+General Contractor
+Head Start Director
+Preschool Director
+High School Principal
+K-12 School Principal
+K-8 School Principal
+Graduate School Dean
+Graduate Studies Dean
+Provost
+University Dean
+Engineering Manager
+Banquet Director
+Banquet Manager
+Cafeteria Director
+Food Service Director
+Tavern Operator
+Bingo Manager
+Casino Manager
+Gambling Director
+Gambling Manager
+Slots Manager
+Table Games Manager
+Amusement Park Manager
+Boat Club Manager
+Fitness Club Manager
+Golf Club Manager
+Marina Club Manager
+Skating Rink Manager
+Ski Resort Manager
+Tennis Club Manager
+Theme Park Manager
+Boardinghouse Keeper
+Hotel Director
+Hotel Manager
+Innkeeper
+Clinic Director
+Health Care Manager
+Healthcare Manager
+Hospice Director
+Hospital Administrator
+Hospital Director
+Medical Director
+Nursing Home Manager
+Wellness Director
+Wellness Manager
+Geochemical Manager
+Geophysical Manager
+Postal Supervisor
+Postmaster
+Apartment Manager
+Property Manager
+Real Estate Manager
+Child Welfare Director
+Youth Program Director
+Emergency Planner
+EMS Director
+Public Safety Director
+Funeral Home Director
+Funeral Home Manager
+Day Spa Director
+Nail Salon Manager
+Travel Agency Manager
+Clerk of Court
+Safety Coordinator
+Social Science Manager
+Utilities Manager
+Artist Manager
+Artist Representative
+Author's Agent
+Band Manager
+Booking Agent
+Booking Manager
+Fight Manager
+Literary Agent
+Modeling Agent
+Talent Agent
+Talent Manager
+Theatrical Agent
+Cattle Buyer
+Cotton Broker
+Cotton Buyer
+Fruit Buyer
+Grain Buyer
+Hog Buyer
+Livestock Buyer
+Oyster Buyer
+Tobacco Buyer
+Gold Buyer
+Merchandise Buyer
+Retail Buyer
+Tie Buyer
+Wholesale Buyer
+Radio Time Buyer
+Claims Analyst
+Fire Claims Adjuster
+Health Claims Examiner
+Medical Claims Analyst
+Auto Damage Appraiser
+EEO Officer
+License Inspector
+Mortician Investigator
+Construction Estimator
+Electrical Estimator
+Job Estimator
+Corporate Recruiter
+Job Placement Officer
+Job Recruiter
+Personnel Coordinator
+Personnel Officer
+Personnel Recruiter
+Personnel Specialist
+Staffing Coordinator
+Student Recruiter
+Volunteer Coordinator
+Farm Labor Contractor
+Harvesting Contractor
+Union Representative
+Logistician
+Logistics Analyst
+Logistics Coordinator
+Logistics Planner
+Logistics Specialist
+Business Analyst
+Business Consultant
+Commercial Specialist
+Industrial Analyst
+Management Consultant
+Conference Organizer
+Conference Planner
+Convention Planner
+Event Planner
+Events Manager
+Wedding Planner
+Campaign Fundraiser
+Fundraising Officer
+Benefits Analyst
+Compensation Analyst
+Job Analyst
+Occupational Analyst
+Pension Administrator
+Corporate Trainer
+Training Coordinator
+Training Specialist
+Advertising Analyst
+Marketing Analyst
+Marketing Consultant
+Marketing Forecaster
+Marketing Specialist
+Mystery Shopper
+Ship Purser
+Account Auditor
+Accountant
+Auditor
+Auditor-In-Charge
+Cost Accountant
+CPA
+Field Auditor
+Financial Accountant
+Financial Auditor
+Fund Accountant
+Internal Auditor
+Payroll Auditor
+Tax Accountant
+Estate Appraiser
+Machinery Appraiser
+Real Estate Appraiser
+Real Estate Assessor
+Budget Analyst
+Budget Coordinator
+Budget Examiner
+Budget Officer
+Cost Analyst
+Chief Credit Analyst
+Credit Analyst
+Credit Risk Analyst
+Factorer
+Estate Planner
+Financial Counselor
+Bond Underwriter
+Insurance Analyst
+Insurance Underwriter
+Insurance Writer
+Financial Risk Analyst
+Bank Examiner
+Payroll Examiner
+Pension Examiner
+Credit Counselor
+Student Loan Counselor
+Branch Lending Officer
+Commercial Lender
+Loan Analyst
+Loan Officer
+Loan Reviewer
+Payday Loan Officer
+City Collector
+Customs Appraiser
+Income Tax Adjuster
+Internal Revenue Agent
+Revenue Collector
+Tax Compliance Officer
+Tax Examiner
+Tax Investigator
+Tax Revenue Officer
+Corporate Tax Preparer
+Income Tax Advisor
+Income Tax Preparer
+Tax Consultant
+Tax Specialist
+Bail Bondsman
+Bondsman
+Executor of Estate
+Applications Analyst
+Programmer Analyst
+Systems Architect
+IT Risk Specialist
+Computer Scientist
+Network Technician
+Help Desk Analyst
+Help Desk Technician
+IT Support Specialist
+PC Support Specialist
+Network Designer
+Network Developer
+Network Engineer
+Database Coordinator
+Database Programmer
+Data Architect
+Database Developer
+LAN Administrator
+Network Analyst
+Network Coordinator
+Computer Programmer
+IT Programmer
+Mainframe Programmer
+Systems Programmer
+Applications Developer
+Software Engineer
+Applications Tester
+Software Test Engineer
+Intranet Developer
+Web Architect
+Web Content Developer
+Web Developer
+Digital Designer
+Graphic Web Designer
+Web Content Specialist
+Data Center Operator
+Actuarial Associate
+Health Actuary
+Insurance Actuary
+Pricing Actuary
+Algebraist
+Cipher Expert
+Cryptanalyst
+Cryptographer
+Geometrician
+Operations Analyst
+Procedure Analyst
+Process Analyst
+Applied Statistician
+Biometrician
+Biostatistician
+Sampling Expert
+Statistical Analyst
+Survey Statistician
+Data Mining Analyst
+Harmonic Analyst
+Mathematics Technician
+Building Architect
+Structural Architect
+Golf Course Architect
+Golf Course Designer
+Landscape Architect
+Landscape Designer
+Cadastral Mapper
+Digital Cartographer
+Map Maker
+Mapper
+Photo Cartographer
+Photogrammetrist
+Topographer
+City Surveyor
+County Surveyor
+Geodetic Surveyor
+Land Surveyor
+Mine Surveyor
+Mineral Surveyor
+Topographical Surveyor
+Aerodynamics Engineer
+Aeronautical Engineer
+Aircraft Designer
+Aircraft Engineer
+Astronautical Engineer
+Flight Test Engineer
+Wind Tunnel Engineer
+Agricultural Engineer
+Biochemical Engineer
+Biomaterials Engineer
+Biomedical Engineer
+Dialysis Engineer
+Genetic Engineer
+Fuels Engineer
+Oxidation Engineer
+Plastics Engineer
+Architectural Engineer
+Bridge Engineer
+Construction Engineer
+Facilities Engineer
+Geotechnical Engineer
+Highway Engineer
+Hydrographic Engineer
+Structural Engineer
+Illuminating Engineer
+Antenna Engineer
+Electronic Engineer
+Soil Engineer
+System Safety Engineer
+Efficiency Engineer
+Manufacturing Engineer
+Packaging Engineer
+Production Engineer
+Marine Architect
+Naval Engineer
+Ceramic Engineer
+Glass Science Engineer
+Metallographer
+Metallurgical Engineer
+Metallurgist
+Welding Engineer
+Auto Research Engineer
+Combustion Engineer
+Engine Designer
+Tool and Die Engineer
+Tool Engineer
+Geophysical Engineer
+Mineral Engineer
+Mining Engineer
+Seismic Engineer
+Nuclear Engineer
+Radiation Engineer
+Reactor Engineer
+Natural Gas Engineer
+Oil Drilling Engineer
+Oil Well Engineer
+Petroleum Engineer
+Calibration Engineer
+Coastal Engineer
+Mathematical Engineer
+Mechatronics Engineer
+Metrologist
+Ocean Engineer
+Optical Engineer
+Ordnance Engineer
+Photonics Engineer
+Salvage Engineer
+Architectural Drafter
+Building Drafter
+Civil Drafter
+Structural Drafter
+Circuit Board Drafter
+Electrical Drafter
+Electronic Drafter
+Aeronautical Drafter
+Die Designer
+Gage Designer
+Tool and Die Designer
+Tool Designer
+Blueprint Tracer
+Drafting Layout Worker
+Draughtsman
+Geological Drafter
+Marine Drafter
+Flight Data Technician
+Wind Tunnel Technician
+Time Study Technician
+Hydraulic Technician
+Calibration Technician
+Hydrometer Calibrator
+Radar Technicians
+Sonar Technicians
+Cartographic Aide
+Field Map Technician
+GIS Mapping Technician
+Mapping Technician
+Surveying Technician
+Topography Technician
+Animal Geneticist
+Animal Nutritionist
+Dairy Scientist
+Poultry Scientist
+Dairy Bacteriologist
+Enologist
+Food Safety Scientist
+Food Scientist
+Food Technologist
+Agriculturist
+Agronomist
+Arboreal Scientist
+Floriculturist
+Horticulturist
+Plant Physiologist
+Plant Scientist
+Pomologist
+Soil Scientist
+Viticulturist
+Biochemist
+Biological Chemist
+Biophysicist
+Clinical Biochemist
+Physical Biochemist
+Bacteriologist
+Medical Microbiologist
+Virologist
+Aquatic Biologist
+Entomologist
+Fish Culturist
+Fishery Biologist
+Herpetologist
+Ichthyologist
+Lepidopterist
+Marine Biologist
+Ornithologist
+Protozoologist
+Wildlife Biologist
+Biologist
+Bryologist
+Embryologist
+Osteologist
+Paleobotanist
+Phytopathologist
+Plant Etiologist
+Range Conservationist
+Range Ecologist
+Range Scientist
+Soil Conservationist
+Water Conservationist
+Forest Ecologist
+Forestry Scientist
+Operations Forester
+Resource Forester
+Service Forester
+Urban Forester
+Malariologist
+Medical Epidemiologist
+Pharmacoepidemiologist
+Cancer Researcher
+Gerontologist
+Histopathologist
+Immunochemist
+Industrial Pharmacist
+Medical Scientist
+Neuroscientist
+Pharmacologist
+Serologist
+Toxicologist
+Astrophysicist
+Cosmologist
+Galactic Astronomer
+Optical Astronomer
+Planetary Astronomer
+Radio Astronomer
+Solar Astronomer
+Stellar Astronomer
+Theoretical Astronomer
+Fluid Dynamicist
+Health Physicist
+Mathematical Physicist
+Medical Physicist
+Molecular Physicist
+Nuclear Physicist
+Optical Scientist
+Plasma Physicist
+Research Physicist
+Rheologist
+Thermodynamicist
+Atmospheric Chemist
+Atmospheric Scientist
+Climatologist
+Hurricane Tracker
+Meteorologist
+Space Scientist
+Storm Chaser
+Tornado Chaser
+Weather Analyst
+Weather Forecaster
+Weatherman
+Agricultural Chemist
+Analytical Chemist
+Bench Chemist
+Food Chemist
+Formulary Chemist
+Industrial Chemist
+Inorganic Chemist
+Laboratory Chemist
+Nuclear Chemist
+Organic Chemist
+Metal Alloy Scientist
+Plastics Scientist
+Ecological Modeler
+Environmental Analyst
+Water Quality Analyst
+Crystallographer
+Development Geologist
+Exploration Geologist
+Geochemist
+Geodesist
+Geologist
+Geomagnetist
+Geophysicist
+Geoscientist
+Mine Geologist
+Mineralogist
+Oceanographer
+Oceanologist
+Paleontologist
+Petroleum Geologist
+Petrologist
+Research Geologist
+Sedimentationist
+Seismologist
+Stratigrapher
+Volcanologist
+Hydrogeologist
+Isotope Hydrologist
+Surface Hydrologist
+Agricultural Economist
+Econometrician
+Industrial Economist
+Labor Economist
+Price Economist
+Social Economist
+Tax Economist
+Trade Economist
+Pollster
+Survey Methodologist
+I/O Psychologist
+Geropsychologists
+Forensic Psychologist
+Neuropsychologist
+Psychotherapist
+Social Psychologist
+Sports Psychologist
+Criminologist
+Family Sociologist
+Penologist
+Rural Sociologist
+Urban Sociologist
+City Planner
+Regional Planner
+Urban Planner
+Anthropologist
+Applied Anthropologist
+Archaeologist
+Ethnoarchaeologist
+Medical Anthropologist
+Research Archaeologist
+Biogeographer
+Economic Geographer
+Geomorphologist
+GIS Geographer
+Glaciologist
+Physical Geographer
+Political Geographer
+Genealogist
+Historiographer
+Protohistorian
+Political Consultant
+Political Researcher
+Behavioral Scientist
+Demographer
+Ethnologist
+Etymologist
+Linguist
+Philologist
+Social Scientist
+Agronomy Technician
+Seed Analyst
+Flavor Technician
+Wildlife Technician
+Assayer
+Air Quality Technician
+Radon Inspector
+Crude Tester
+Geophysical Prospector
+Magnetometer Operator
+Mineral Technologist
+Mining Technician
+Mud Logger
+Petroleum Technician
+Seismic Interpreter
+Seismic Observer
+Seismograph Operator
+City Planning Aide
+Forest Technician
+Forestry Aide
+Forestry Technician
+Ballistic Technician
+Ballistician
+Ballistics Expert
+Crime Lab Technician
+Crime Scene Technician
+Criminalist Technician
+Fingerprint Expert
+Forensic Analyst
+Handwriting Expert
+Meteorological Aide
+Polygraph Examiner
+Industrial Hygienist
+CHST
+Ergonomics Technician
+Addiction Counselor
+Addiction Therapist
+Drug Abuse Counselor
+Drug Counselor
+Admissions Counselor
+Career Counselor
+Education Counselor
+Guidance Counselor
+Student Advisor
+Study Abroad Advisor
+Vocational Adviser
+Couples Therapist
+Family Counselor
+Family Therapist
+Marriage Counselor
+Marriage Therapist
+Relationship Counselor
+AIDS Counselor
+Grief Counselor
+HIV Counselor
+C-CYFSW
+Child Abuse Worker
+Child Welfare Worker
+Foster Care Worker
+School Social Worker
+AIDS Social Worker
+C-SWHC
+Hospice Social Worker
+Hospital Social Worker
+Medical Social Worker
+Neonatal Social Worker
+Oncology Social Worker
+Renal Social Worker
+Forensic Social Worker
+Diabetes Educator
+Health Educator
+Public Health Educator
+Parole Agent
+Parole Officer
+Probation Officer
+Case Work Aide
+Human Services Worker
+Social Work Assistant
+CHW
+Lay Health Advocate
+Peer Health Promoter
+Promotor(a)
+Cantor
+Children's Pastor
+College Chaplain
+Hebrew Cantor
+Hospital Chaplain
+Imam
+Minister
+Parish Priest
+Pastor
+Priest
+Rabbi
+Reverend
+Vicar
+Youth Pastor
+Education Minister
+Buddhist Monk
+Missionary
+Mohel
+Nun
+Pastoral Worker
+Prior
+Sacristan
+Traveling Missionary
+Verger
+Agency Legal Counsel
+Assistant Counsel
+Associate Attorney
+Attorney
+Attorney At Law
+Attorney General
+Brief Writer
+City Attorney
+Civil Lawyer
+Commonwealth Attorney
+Corporate Attorney
+Corporate Counsel
+Corporate Counselor
+County Attorney
+Defense Attorney
+Deputy Chief Counsel
+District Attorney
+Environmental Attorney
+Estate Conservator
+General Counsel
+Insurance Attorney
+Legal Counsel
+Probate Lawyer
+Prosecutor
+Public Defender
+Real Estate Attorney
+Sports Attorney
+Tax Attorney
+Trial Attorney
+Trial Lawyer
+Judicial Clerk
+Appeals Examiner
+Appeals Referee
+Appellate Conferee
+Hearing Examiner
+Hearing Officer
+Justice of The Peace
+Traffic Court Referee
+Mediation Commissioner
+Ombudsman
+Circuit Court Judge
+County Court Judge
+Criminal Court Judge
+District Court Judge
+Jurist
+Justice
+Probate Judge
+Trial Court Judge
+Tribal Judge
+Assistant Paralegal
+Legal Aide
+Legal Assistant
+Paralegal
+Summer Associate
+Abstract Searcher
+Abstract Writer
+Advisory Title Officer
+Escrow Officer
+Land Title Examiner
+Lease Examiner
+Lien Searcher
+Title Agent
+Title Checker
+Title Examiner
+Title Inspector
+Title Investigator
+Title Officer
+Title Searcher
+Legal Technician
+Accounting Professor
+Finance Professor
+Management Professor
+Marketing Instructor
+Marketing Professor
+C++ Professor
+IT Professor
+Calculus Professor
+Geometry Professor
+Mathematics Professor
+Statistics Professor
+Topology Professor
+Architecture Professor
+Agronomy Professor
+Floriculture Professor
+Olericulture Professor
+Anatomy Professor
+Bacteriology Professor
+Biochemistry Professor
+Botany Professor
+Embryology Professor
+Microbiology Professor
+Zoology Professor
+Ecology Professor
+Silviculture Professor
+Climatology Professor
+Geology Professor
+Geoscience Professor
+Meteorology Professor
+Mineralogy Professor
+Oceanography Professor
+Volcanology Professor
+Chemistry Professor
+Aerodynamics Professor
+Astrophysics Professor
+Ballistics Professor
+Paleology Professor
+Ethnology Professor
+Econometrics Professor
+Cartography Professor
+Geomatics Professor
+GIS Professor
+Government Professor
+Psychology Professor
+Dentistry Professor
+Neurology Professor
+Nutrition Professor
+Optometry Professor
+Pharmacology Professor
+Podiatry Professor
+Criminology Professor
+Penology Professor
+Criminal Law Professor
+Labor Law Professor
+Torts Law Professor
+Social Work Professor
+Ballet Professor
+Media Arts Professor
+Music Professor
+Photography Professor
+Piano Professor
+Stagecraft Professor
+Theatre Professor
+Voice Professor
+Journalism Professor
+Professor of Rhetoric
+Speech Professor
+Composition Professor
+Etymology Professor
+Arabic Professor
+French Professor
+German Professor
+Greek Professor
+Hebrew Professor
+Japanese Professor
+Divinity Professor
+Ethics Professor
+Theology Professor
+Kinesiology Professor
+Swimming Professor
+Barbering Instructor
+Carpentry Instructor
+Cosmetology Instructor
+HVAC Instructor
+Masonry Instructor
+Paralegal Instructor
+Skin Care Instructor
+Upholstery Instructor
+Welding Instructor
+Packaging Professor
+Head Start Teacher
+Nursery School Teacher
+Nursery Teacher
+Pre-K Teacher
+Preschool Teacher
+Kindergarten Teacher
+4th Grade Math Teacher
+High School Teacher
+Adult Literacy Teacher
+GED® Instructor
+Citizenship Teacher
+Knitting Instructor
+Algebra Tutor
+Reading Tutor
+Spanish Tutor
+Sunday School Teacher
+Digital Archivist
+Film Archivist
+Image Archivist
+Museum Archivist
+Processing Archivist
+Reference Archivist
+State Archivist
+Collections Curator
+Herbarium Curator
+Museum Curator
+Art Conservator
+Art Handler
+Objects Conservator
+Paintings Conservator
+Paper Conservator
+Textile Conservator
+Acquisitions Librarian
+Catalog Librarian
+Children's Librarian
+College Librarian
+Film Librarian
+High School Librarian
+Law Librarian
+Medical Librarian
+Music Librarian
+Periodicals Librarian
+Record Librarian
+Reference Librarian
+Research Librarian
+School Librarian
+Serials Librarian
+University Librarian
+Agricultural Agent
+Home Economics Expert
+Curriculum Coordinator
+Curriculum Designer
+Curriculum Specialist
+Special Education Aide
+Assistant Instructor
+Adult ESL Teacher Aide
+Magazine Designer
+Hand Potter
+Metal Crafts Artist
+Quilter
+Book Illustrator
+Caricature Artist
+Comic Artist
+Comic Book Artist
+Comic Illustrator
+Commercial Artist
+Concrete Sculptor
+Editorial Cartoonist
+Fashion Illustrator
+Free Lance Artist
+Fresco Artist
+Glass Artist
+Ice Sculptor
+Medical Illustrator
+Mural Painter
+Muralist
+Oil Painter
+Pattern Illustrator
+Political Cartoonist
+Portrait Artist
+Portrait Painter
+Scientific Illustrator
+Sketch Artist
+Sports Cartoonist
+Stained Glass Artist
+Water Colorist
+Watercolor Artist
+3D Animator
+Animator
+Multimedia Artist
+Special Effects Artist
+Calligrapher
+Tattoo Artist
+Automobile Designer
+Bank Note Designer
+Bicycle Designer
+Car Body Designer
+Ceramic Designer
+Ceramic Mold Designer
+Furniture Designer
+Package Designer
+Rug Designer
+Snowboard Designer
+Textile Designer
+Tile Designer
+Toy Designer
+Apparel Designer
+Clothes Designer
+Clothing Designer
+Costume Designer
+Custom Furrier
+Dance Costume Designer
+Dress Designer
+Hat Designer
+Sweater Designer
+Uniform Designer
+Corsage Maker
+Floral Arranger
+Floral Artist
+Floral Decorator
+Florist
+Florist Designer
+Flower Arranger
+Graphic Artist
+Visual Designer
+Furniture Arranger
+Home Lighting Adviser
+Interior Decorator
+Interior Designer
+Kitchen Designer
+Display Artist
+Display Decorator
+Display Designer
+Display Specialist
+Mannequin Decorator
+Merchandise Displayer
+Show Floor Decorator
+Visual Merchandiser
+Window Decorator
+Window Draper
+Window Dresser
+Window Trimmer
+Scenic Designer
+Set Decorator
+Set Designer
+Stage Scenery Designer
+Actor Understudy
+Actress
+Dramatic Reader
+Elocutionist
+Monologist
+Vaudeville Actor
+Voice-Over Artist
+Broadcast Producer
+Casting Director
+Film Maker
+Independent Film Maker
+Movie Producer
+Music Video Director
+Music Video Producer
+Newscast Director
+Newscast Producer
+On-Air Director
+Pageant Director
+Radio Producer
+Stage Manager
+Television Producer
+Video Producer
+Profession Cyclist
+Professional Athlete
+Professional Bicyclist
+Professional Bowler
+Professional Car Racer
+Professional Golfer
+Professional Jockey
+Professional Pugilist
+Professional Skater
+Professional Skier
+Professional Surfer
+Professional Swimmer
+Professional Wrestler
+Athletic Coach
+Baseball Coach
+Baseball Scout
+Basketball Coach
+Boxing Coach
+Coach
+Football Coach
+Hockey Scout
+Ice Skating Coach
+Riding Coach
+Ski Coach
+Tennis Coach
+Athletic Events Scorer
+Baseball Umpire
+Diving Judge
+Dressage Judge
+Handicapper
+Horse Show Judge
+Paddock Judge
+Pit Steward
+Placing Judge
+Race Starter
+Ballerina
+Ballet Company Member
+Ballet Dancer
+Ballet Soloist
+Burlesque Dancer
+Dance Artist
+Discotheque Dancer
+Exotic Dancer
+Go-Go Dancer
+Line Dancer
+Soft Shoe Dancer
+Tap Dancer
+Dance Director
+Dance Master
+Choir Director
+Choirmaster
+Chorus Master
+Composer
+Maestro
+Music Adapter
+Music Arranger
+Music Copyist
+Music Director
+Music Minister
+Music Pastor
+Orchestra Conductor
+Orchestra Director
+Orchestrator
+Songwriter
+Accompanist
+Baritone
+Bassoonist
+Bugler
+Cellist
+Choir Member
+Church Organist
+Clarinetist
+Concert Pianist
+Concert Singer
+Double Bass Player
+English Horn Player
+Flutist
+Guitar Player
+Guitarist
+Harpist
+Horn Player
+Instrumentalist
+Musician
+Oboist
+Opera Singer
+Organist
+Percussionist
+Pianist
+Piano Player
+Piccoloist
+Rapper
+Soloist
+Tenor
+Timpanist
+Trombonist
+Trumpet Player
+Trumpeter
+Violinist
+Violist
+Vocalist
+Club DJ
+Deejay
+DJ
+Acrobat
+Aerialist
+Bareback Rider
+Baton Twirler
+Clown
+Comedian
+Fortune Teller
+Impersonator
+Juggler
+Magician
+Marionette Performer
+Palmist
+Prompter
+Puppeteer
+Ringmaster
+Rodeo Performer
+Story Teller
+Stunt Performer
+Tumbler
+Ventriloquist
+Wire Walker
+Commercial Announcer
+Game Show Host
+Radio Artist
+Radio Disc Jockey
+Radio Host
+Talk Show Host
+Television Host
+Book Critic
+Book Reviewer
+Columnist
+Correspondent
+Desk Reporter
+Film Critic
+Foreign Correspondent
+Investigative Reporter
+Journalist
+Market News Reporter
+Movie Critic
+News Anchor
+News Commentator
+News Reporter
+Newscaster
+Newspaper Columnist
+Political Reporter
+Press Writer
+Society Reporter
+Lobbyist
+Press Agent
+Press Secretary
+Public Affairs Officer
+Publicist
+Publicity Agent
+Publicity Writer
+Advertising Editor
+Art Editor
+Book Editor
+Copy Desk Chief
+Copy Editor
+Index Editor
+Manuscript Editor
+Newspaper Photo Editor
+Publications Editor
+Rewrite Editor
+Sports Editor
+Technical Editor
+Documentation Writer
+Engineering Writer
+Handbook Writer
+Specifications Writer
+Technical Communicator
+Advertising Copywriter
+Author
+Biographer
+Copy Writer
+Copywriter
+Lyricist
+Novelist
+Playwright
+Poet
+Program Writer
+Radio Script Writer
+Screen Writer
+Short Story Writer
+Song Lyricist
+Television Writer
+Verse Writer
+Court Interpreter
+Deaf Interpreter
+Diplomatic Interpreter
+Language Translator
+Translator
+Court Stenographer
+Court Transcriber
+Deposition Reporter
+Realtime Captioner
+Stenocaptioner
+Voice Writing Reporter
+Stage Technician
+Train Announcer
+Train Caller
+Event AV Operator
+Video Control Operator
+Broadcast Engineer
+Telecasting Engineer
+Disc Recordist
+Dub Room Engineer
+Film Sound Engineer
+Play Back Operator
+Recording Engineer
+Sound Assistant
+Sound Cutter
+Sound Designer
+Sound Editor
+Dimmer Board Operator
+Gaffer
+Lamp Operator
+Spotlight Operator
+Aerial Photographer
+Marine Photographer
+Medical Photographer
+News Photographer
+Photojournalist
+Portrait Photographer
+School Photographer
+Wedding Photographer
+News Camera Operator
+News Videographer
+Video Camera Operator
+Cue Selector
+Film Editor
+Movie Editor
+News Video Editor
+News Videotape Editor
+Tape Editor
+Video Tape Transferrer
+Chiropractic Doctor
+Chiropractic Physician
+Family Dentist
+Dental Surgeon
+Maxillofacial Surgeon
+Oral Surgeon
+Pediatric Orthodontist
+Reconstructive Dentist
+Endodontist
+Oral Pathologist
+Pediatric Dentist
+Pedodontist
+Periodontist
+Public Health Dentist
+Clinical Dietitian
+Dietitian
+Nutritionist
+Pediatric Dietician
+Research Dietitian
+Sports Nutritionist
+Therapeutic Dietitian
+Doctor of Optometry
+Apothecary
+Clinical Pharmacist
+Druggist
+Hospital Pharmacist
+Registered Pharmacist
+Chiropodist
+Foot and Ankle Surgeon
+Foot Doctor
+Foot Orthopedist
+Orthopedic Podiatrist
+Podiatric Physician
+Occupational Therapist
+OT
+Physiotherapist
+PT
+CTRS
+Drama Therapist
+CRT
+Inhalation Therapist
+Oxygen Therapist
+Respiratory Therapist
+RRT
+Language Pathologist
+Speech Clinician
+Speech Pathologist
+Speech Therapist
+Kinesiotherapist
+Art Therapist
+Auriculotherapist
+Educational Therapist
+Hydrotherapist
+Music Therapist
+Peripatologist
+Animal Pathologist
+Animal Surgeon
+Equine Veterinarian
+Poultry Pathologist
+Veterinary Radiologist
+Wildlife Veterinarian
+CCU Nurse
+CNS
+Community Health Nurse
+Emergency Room RN
+Obstetrical Nurse
+PACU Nurse
+Psychiatric Nurse
+RN
+DNAP
+NP
+Clinical Audiologist
+Dispensing Audiologist
+Hearing Therapist
+Licensed Audiologist
+Pediatric Audiologist
+Anaesthesiologist
+Anesthetist
+Staff Anesthetist
+Dermatopathologist
+Family Physician
+Family Practitioner
+General Practitioner
+GP Doctor
+General Internist
+Internist
+Epileptologist
+Headache Specialist
+Gynecologist
+OB Specialist
+OB/GYN
+OB/GYN Physician
+Obstetrician
+General Pediatrician
+Neonatal Doctor
+Neonatologist
+Paediatrician
+Pediatric Cardiologist
+Pediatrist
+Clinical Pathologist
+Immunopathologist
+Neuropathologist
+Addiction Psychiatrist
+Child Psychiatrist
+Clinical Psychiatrist
+Forensic Psychiatrist
+Geriatric Psychiatrist
+Neuropsychiatrist
+Pediatric Psychiatrist
+Staff Psychiatrist
+Diagnostic Radiologist
+Gastroenterologist
+Immunologist
+Nephrologist
+Oncologist
+Physiatrist
+Pulmonary Physician
+Pulmonologist
+Rheumatologist
+Joint Preservationist
+Orthopaedic Surgeon
+Orthopedic Surgeon
+Pediatric Neurosurgeon
+Brain Surgeon
+Cardiac Surgeon
+Cardiovascular Surgeon
+Colorectal Surgeon
+Neurological Surgeon
+Neurosurgeon
+Otolaryngologist
+Plastic Surgeon
+Reconstructive Surgeon
+Surgical Oncologist
+Thoracic Surgeon
+Urologist
+Vascular Surgeon
+Acupuncture Physician
+Licensed Acupuncturist
+Oral Hygienist
+RDH
+Homeopathic Doctor
+Hypnotherapist
+Naturopath
+Naturopathic Doctor
+Naturopathic Physician
+Cytologist
+Cytotechnologist
+Histotechnologist
+Immunohematologist
+Tissue Technologist
+Hematology Technician
+Histologic Aide
+Histologic Technician
+Histology Technician
+Histotechnician
+Neurology Technician
+Pathology Technician
+Serology Technician
+Cardiac Technician
+EKG Technician
+Echocardiographer
+Sonographer
+Ultrasonographer
+Ultrasound Technician
+Isotope Technologist
+Radiologic Technician
+Skiagrapher
+X-Ray Technician
+MRI Technologist
+EMT
+EMT-B
+EMT-I/85
+EMT-I/99
+Flight Paramedic
+Cook Chill Technician
+Dietary Aide
+Dietary Technician
+DTR
+Nutrition Technician
+CPHT
+Pharmacist Technician
+OR Tech
+LVT
+Veterinary Lab Tech
+LP Nurse
+LPN
+LVN
+Medical Bill Coder
+Certified Optician
+Contact Lens Fitter
+Eyeglass Fitter
+Licensed Optician
+Optical Dispenser
+Optician
+Artificial Limb Fitter
+Licensed Prosthetist
+Orthotist
+Pedorthist
+Prosthetist
+Hearing Aid Fitter
+Hearing Aid Technician
+CRTT
+Dialysis Technician
+Encephalographer
+Perfusionist
+Polysomnograph Tech
+Cancer Registrar
+Podiatric Technician
+Home Health Attendant
+Home Hospice Aide
+Blind Aide
+Blind Escort
+Elderly Companion
+C.N.A.
+Certified Nurse Aide
+Hospital Aide
+Hospital Attendant
+Nursing Aide
+Nursing Attendant
+Nursing Care Attendant
+Emergency Room Orderly
+Hospital Orderly
+Medical Orderly
+Surgical Orderly
+Mental Health Orderly
+Psychiatric Orderly
+COTA
+OT Aide
+LPTA
+Physical Therapy Aide
+Physiotherapy Aide
+Masseur
+Masseuse
+Massotherapist
+Rolfer
+Swedish Masseuse
+Dental Aide
+Orthodontic Assistant
+Orthodontist Assistant
+Autopsy Assistant
+Chiropractic Assistant
+Morgue Attendant
+Ocular Care Aide
+Optometric Aide
+Optometrist Assistant
+Optometry Assistant
+Podiatric Aide
+Medical Stenographer
+Medical Transcriber
+Pharmacist Aide
+Pharmacist Assistant
+Pharmacy Assistant
+Pharmacy Clerk
+Prescription Clerk
+Veterinarian Assistant
+Veterinarian Helper
+Veterinary Attendant
+Phlebotomy Technician
+Venipuncturist
+Ortho/Prosthetic Aide
+Chief Jailer
+Corrections Sergeant
+Detective Lieutenant
+Detective Supervisor
+Police Lieutenant
+Traffic Lieutenant
+Traffic Sergeant
+Fire Lieutenant
+Fire Fighter
+Forest Firefighter
+Marine Firefighter
+Municipal Firefighter
+Smoke Jumper
+Wildland Firefighter
+Arson Investigator
+CFEI
+Fire Hazard Inspector
+Fire Investigator
+Fire Safety Inspector
+Fire Ranger
+Forest Fire Officer
+City Bailiff
+County Bailiff
+Court Bailiff
+Court Officer
+Court Security Officer
+Deputy Bailiff
+Convict Guard
+Correction Officer
+Correctional Guard
+Correctional Sergeant
+Detention Deputy
+Detention Officer
+Jail Guard
+Penal Officer
+Prison Guard
+Prison Officer
+Criminal Investigator
+FBI Investigator
+Homicide Detective
+Narcotics Detective
+Narcotics Investigator
+Police Detective
+Fish Warden
+Game Warden
+Wildlife Control Agent
+Wildlife Officer
+Meter Maid
+Border Guard
+Border Patrol Officer
+Campus Police Officer
+Constable
+Cop
+Deputy Sheriff
+Highway Patrol Officer
+Motorcycle Police
+Mounted Police
+Park Police
+Patrol Officer
+Policeman
+Policewoman
+State Trooper
+Railroad Detective
+Track Patrol
+Transit Police Officer
+Animal Control Officer
+Animal Warden
+Dog Catcher
+Dog Warden
+Humane Officer
+Private Detective
+Private Eye
+Private Investigator
+Skip Tracer
+Store Detective
+Casino Investigator
+Gambling Monitor
+Armed Guard
+Bank Guard
+Bodyguard
+Bouncer
+Private Watchman
+Security Officer
+Crossing Guard
+School Crossing Guard
+School Traffic Guard
+Beach Lifeguard
+Life Guard
+OEC Technician
+Pool Lifeguard
+Ski Patrol
+Bus Monitor
+School Bus Attendant
+Warrant Server
+Banquet Chef
+Chef De Cuisine
+Chef De Froid
+Executive Chef
+Head Chef
+Kitchen Chef
+Master Chef
+Pastry Chef
+Sous Chef
+Sushi Chef
+Banquet Supervisor
+Bar Manager
+Cafeteria Manager
+Dairy Bar Manager
+Head Waiter
+Head Waitress
+Kitchen Supervisor
+Fast Food Cook
+Fast Food Fry Cook
+Fryline Attendant
+Cafeteria Cook
+Camp Cook
+Galley Cook
+Institutional Cook
+Mess Cook
+School Cook
+Personal Chef
+Private Chef
+Banquet Cook
+Breakfast Cook
+Chef De Partie
+Line Cook
+Saucier
+Specialty Cook
+Griddle Attendant
+Griddle Cook
+Grill Cook
+Short Order Fry Cook
+Snack Bar Cook
+Falafel Cart Cook
+Fraternity House Cook
+Deli Clerk
+Deli Slicer
+Food Preparer
+Salad Maker
+Sandwich Maker
+Barkeep
+Drink Mixer
+Mixologist
+Taproom Attendant
+Barista
+Cafe Server
+Cafeteria Server
+Food Counter Worker
+Hot Dog Vender
+Ice Cream Server
+Mess Attendant
+Snack Bar Attendant
+Cocktail Server
+Cocktail Waitress
+Dining Car Server
+Restaurant Server
+Wine Steward
+Boat Hop
+Banquet Set Up Person
+Bar Back
+Barback
+Buffet Attendant
+Bus Person
+Busser
+Lunchroom Attendant
+Dish Room Worker
+Dishwasher
+Silverware Cleaner
+Bar Host/Hostess
+Bar Hostess
+Dining Room Host
+Maitre D'
+Tearoom Host/Hostess
+Tearoom Hostess
+Kitchen Steward
+Custodial Supervisor
+Head Custodian
+Head School Custodian
+Janitor Supervisor
+Maid Supervisor
+Gardening Supervisor
+Grounds Foreman
+Head Greenskeeper
+Building Custodian
+Custodial Worker
+Custodian
+Floor Cleaner
+Heavy Duty Custodian
+Janitor
+Office Cleaner
+School Custodian
+Window Cleaner
+Window Washer
+Chambermaid
+Cleaning Maid
+Cottage Attendant
+Domestic Maid
+House Cleaner
+Housekeeping Aide
+Housekeeping Staff
+Motel Maid
+Ward Maid
+Chimney Sweep
+Chimney Sweeper
+Exterminator
+Fumigator
+Insecticide Expert
+Mosquito Sprayer
+Pest Controller
+Rat Exterminator
+Rodent Exterminator
+Termite Technician
+Termite Treater
+Golf Course Laborer
+Greenskeeper
+Greenskeeper Laborer
+Grounds Caretaker
+Hedge Trimmer
+Lawn Care Worker
+Lawn Caretaker
+Lawn Mower
+Lawn Service Worker
+Shrub Planter
+Sod Layer
+Fruit Sprayer
+Herbicide Sprayer
+Orchard Sprayer
+Plant Sprayer
+Weed Sprayer
+Pruner
+Tree Pruner
+Tree Specialist
+Tree Surgeon
+Tree Trimmer
+Utility Arborist
+Tree Trimmer Helper
+Blackjack Pit Boss
+Blackjack Supervisor
+Cardroom Manager
+Cardroom Supervisor
+Casino Slot Supervisor
+Casino Supervisor
+Executive Casino Host
+Gambling Supervisor
+Pit Boss
+Poker Room Supervisor
+Slot Floor Supervisor
+Slot Host
+Slot Key Person
+Slot Shift Manager
+Table Games Supervisor
+Arcade Supervisor
+Caddy Master
+Hair Salon Supervisor
+Head Butler
+Dog Handler
+Dog Trainer
+Dolphin Trainer
+Guide Dog Instructor
+Guide Dog Trainer
+Horse Breaker
+Lion Trainer
+Marine Mammal Trainer
+Seeing Eye Dog Trainer
+Animal Care Giver
+Animal Care Technician
+Animal Caregiver
+Animal Groomer
+Animal Shelter Worker
+Animal Sitter
+Aquarist
+Cat and Dog Bather
+Dog Bather
+Dog Beautician
+Dog Groomer
+Dog Sitter
+Horse Exerciser
+Kennel Aide
+Kennel Attendant
+Kennel Helper
+Kennel Worker
+Pet Feeder
+Pet Groomer
+Pet Sitter
+Pet Stylist
+Zookeeper
+21 Dealer
+Blackjack Dealer
+Casino Dealer
+Casino Games Dealer
+Craps Dealer
+Keno Dealer
+Poker Dealer
+Roulette Dealer
+Table Games Dealer
+Betting Clerk
+Bingo Worker
+Bookie
+Casino Floor Runner
+Keno Runner
+Keno Writer
+Race Book Writer
+Card Table Attendant
+Pit Clerk
+Poker Prop Player
+Proposition Player
+Shill
+Chief Projectionist
+Movie Projectionist
+Stereoptician
+Lobby Attendant
+Theater Usher
+Ticket Attendant
+Ticket Collector
+Usher
+Amusement Park Worker
+Animal Ride Attendant
+Arcade Attendant
+Carnival Worker
+Ferris Wheel Operator
+Golf Caddy
+Ice Rink Attendant
+Ride Operator
+Rides Attendant
+Ski Lift Attendant
+Ski Lift Operator
+Wardrobe Assistant
+Wardrobe Attendant
+Wardrobe Custodian
+Wardrobe Dresser
+Wardrobe Supervisor
+Bathhouse Attendant
+Checkroom Attendant
+Cloak Room Attendant
+Coat Checker
+Locker Room Attendant
+Locker Room Manager
+Locker Room Supervisor
+Washroom Attendant
+Jockey Valet
+Anatomical Embalmer
+Arterial Embalmer
+Embalmer Apprentice
+Licensed Embalmer
+Cremation Arranger
+Cremator
+Crematory Operator
+Funeral Assistant
+Funeral Greeter
+Funeral Home Assistant
+Funeral Home Associate
+Mortician Helper
+Pallbearer
+Undertaker Helper
+Certified Mortician
+Funeral Arranger
+Barber Apprentice
+Master Barber
+Beautician
+Cosmetologist
+Hair Colorist
+Hair Stylist
+Hairdresser
+Hairpiece Stylist
+Wedding Makeup Artist
+Wig Stylist
+Fingernail Sculptor
+Nail Technician
+Pedicurist
+Shampoo Assistant
+Shampoo Technician
+Electrolysis Operator
+Electrolysist
+Esthetician
+Facialist
+Licensed Esthetician
+Medical Esthetician
+Skin Care Technician
+Baggage Porter
+Bell Staff
+Bellperson
+Bellstaff
+Hotel Baggage Handler
+Luggage Attendant
+Redcap
+Skycap
+Activities Concierge
+Club Concierge
+Conference Concierge
+Hotel Concierge
+Historical Interpreter
+Historical Site Guide
+Museum Docent
+Museum Guide
+Sightseeing Guide
+Tourist Escort
+Tourist Guide
+Cruise Director
+River Expedition Guide
+Tour Coordinator
+Tour Director
+Au Pair
+Baby Sitter
+Childcare Aide
+Childcare Attendant
+Day Care Attendant
+Day Care Worker
+Daycare Aide
+Daycare Provider
+Governess
+Nanny
+Playground Aide
+Aerobics Instructor
+Fitness Trainer
+Personal Trainer
+Weight Trainer
+Yoga Instructor
+Yoga Teacher
+Camp Counselor
+Recreation Assistant
+Recreational Aide
+Dormitory Counselor
+House Parent
+Residence Director
+Residential Director
+Sorority Mother
+Butler
+Doula
+House Sitter
+Magnetic Healer
+Shoe Shiner
+Valet
+Cashier Manager
+Cashier Supervisor
+Sales Clerk Supervisor
+Telemarketing Manager
+Telesales Supervisor
+Cash Register Operator
+Check Out Cashier
+Fare Collector
+Grocery Checker
+Snack Bar Cashier
+Toll Booth Operator
+Toll Collector
+Mutuel Teller
+Slot Attendant
+Airplane Charter Clerk
+Apartment Rental Clerk
+Bicycle Rental Clerk
+Boat Rental Clerk
+Car Rental Agent
+Layaway Clerk
+Rental Clerk
+Video Rental Clerk
+Auto Parts Salesperson
+Parts Clerk
+Parts Counter Clerk
+Automotive Salesperson
+Menswear Salesperson
+New Car Salesperson
+Pets Salesperson
+Shoe Salesperson
+Used Car Salesperson
+Advertising Agent
+Advertising Solicitor
+Radio Time Salesperson
+Insurance Agent
+Insurance Broker
+Life Insurance Agent
+Pension Agent
+Commodities Broker
+Commodity Trader
+Equity Trader
+Investment Banker
+Municipal Bond Trader
+Securities Trader
+Stock Broker
+Stock Trader
+Auto Travel Counselor
+Travel Consultant
+Travel Counselor
+Membership Solicitor
+Freight Broker
+Pulpwood Dealer
+Home Demonstrator
+In-Store Demonstrator
+Artist's Model
+Clothes Model
+Fashion Model
+Figure Model
+Hand Model
+Hat Model
+Photographer's Model
+Studio Model
+Apartment Rental Agent
+Land Sales Agent
+Right of Way Agent
+Inbound Telemarketer
+Outbound Telemarketer
+Telephone Solicitor
+Telesales Specialist
+Newspaper Carrier
+Newstand Vendor
+Peddler
+Souvenir Street Vendor
+Auctioneer
+Blood Donor Recruiter
+Leaflet Distributor
+Livestock Auctioneer
+Pawn Shop Clerk
+Personal Shopper
+Billing Supervisor
+Clerical Supervisor
+Data Entry Supervisor
+Payroll Supervisor
+Records Supervisor
+Teller Supervisor
+Timekeeping Supervisor
+PBX Operator
+Information Operator
+Long Distance Operator
+Radio Operator
+Telex Operator
+Accounts Collector
+Bill Collector
+Billing Representative
+Collection Agent
+Collections Clerk
+Debt Collector
+Installment Agent
+Insurance Collector
+Payment Collector
+Repossessor
+Billing Clerk
+Invoice Clerk
+Invoice Control Clerk
+Posting Clerk
+Statement Clerk
+Statement Processor
+Auditing Clerk
+Bookkeeper
+Fixed Capital Clerk
+Cage Cashier
+Casino Cage Cashier
+Casino Cashier
+Gambling Cage Cashier
+Gambling Cashier
+Flight Crew Time Clerk
+Payroll Bookkeeper
+Personnel Scheduler
+Time Clerk
+Timekeeper
+Procurement Assistant
+Purchasing Assistant
+Purchasing Clerk
+Bank Teller
+Commercial Teller
+Exchange Teller
+Foreign Exchange Clerk
+Loan Teller
+Money Order Clerk
+Receiving Teller
+Savings Teller
+Securities Teller
+Bank Vault Attendant
+Bank Vault Clerk
+Bank Vault Custodian
+Safe Deposit Clerk
+Safety Deposit Clerk
+Vault Teller
+Commodities Clerk
+Dividend Clerk
+Securities Clerk
+Fan Mail Editor
+Circuit Court Clerk
+City Clerk
+Court Clerk
+Courtroom Clerk
+Deputy Court Clerk
+Docket Clerk
+Dog Licenser
+License Clerk
+Municipal Clerk
+Tax Clerk
+Township Clerk
+Warrant Clerk
+Charge Authorizer
+Credit Authorizer
+Credit Checker
+Credit Investigator
+Credit Processor
+Credit Rating Checker
+Credit Reference Clerk
+Credit Report Checker
+Complaint Clerk
+Warranty Clerk
+Medicare Interviewer
+Welfare Interviewer
+Cut File Clerk
+Document Clerk
+File Keeper
+Index Clerk
+Records Clerk
+Assistant Innkeeper
+Hotel Desk Clerk
+Hotel Front Desk Clerk
+Motel Clerk
+Resort Desk Clerk
+Admitting Interviewer
+Census Clerk
+Census Taker
+Field Enumerator
+Survey Interviewer
+Telephone Interviewer
+Book Sorter
+Circulation Clerk
+Film Library Clerk
+Library Aide
+Library Assistant
+Library Clerk
+Microfilm Clerk
+Loan Interviewer
+Loan Processor
+Mortgage Closing Clerk
+Mortgage Loan Closer
+Mortgage Processor
+Banking Services Clerk
+Catalogue Clerk
+Classified Ad Clerk
+Mail Order Clerk
+Order Desk Clerk
+Service Order Clerk
+Subscription Clerk
+Want Ad Clerk
+Employment Clerk
+HR Clerk
+Personnel Clerk
+Appointment Clerk
+Dental Receptionist
+Airline Reservationist
+Airline Ticket Agent
+Gate Agent
+Hotel Reservationist
+Passenger Agent
+Reservation Agent
+Train Clerk
+Transportation Clerk
+Travel Clerk
+Election Clerk
+Flight Crew Scheduler
+Probate Clerk
+Cargo Agent
+Cargo Router
+Freight Agent
+Freight Shipping Agent
+Bank Courier
+Bicycle Messenger
+Courier
+Court Messenger
+Laboratory Courier
+Office Messenger
+Office Runner
+911 Dispatcher
+911 Operator
+Ambulance Dispatcher
+Emergency Operator
+Fire Dispatcher
+Police Dispatcher
+Bus Dispatcher
+Crew Dispatcher
+Maintenance Dispatcher
+School Bus Dispatcher
+Taxicab Dispatcher
+Tow Truck Dispatcher
+Train Dispatcher
+Truck Dispatcher
+Electric Meter Reader
+Gas Meter Reader
+Water Meter Reader
+Bulk Mail Clerk
+Bulk Mail Technician
+Parcel Post Clerk
+Postal Clerk
+Postal Service Clerk
+City Letter Carrier
+Letter Carrier
+Mail Deliverer
+Parcel Post Carrier
+Postal Mail Carrier
+Rural Mail Carrier
+Rural Route Carrier
+USPS Letter Carrier
+Flat Sorter Operator
+Expeditor
+Material Control Clerk
+Material Expediter
+Mill Recorder
+Production Scheduler
+Freight Clerk
+Incoming Freight Clerk
+Inventory Taker
+Receiving Clerk
+Reconsignment Clerk
+Route Delivery Clerk
+Shipping Order Clerk
+Stockroom Attendant
+Stockroom Clerk
+Store Receiving Clerk
+Supply Clerk
+Supply Room Clerk
+Tool Crib Attendant
+Warehouse Clerk
+Bean Weigher
+Cheese Weigher
+Freight Checker
+Sample Checker
+Scale Attendant
+Scale Clerk
+Scale Operator
+Warehouse Checker
+Wool Sampler
+Executive Assistant
+Law Secretary
+Dental Secretary
+Hospital Secretary
+Psychiatric Secretary
+Alumni Secretary
+Office Secretary
+Personal Secretary
+Customs Entry Clerk
+Data Entry Clerk
+Data Input Clerk
+Data Keyer
+Data Processing Clerk
+Data Typist
+Key Punch Operator
+Keypunch Operator
+Keypuncher
+Clerk Typist
+Dictaphone Typist
+Statistical Typist
+Transcription Typist
+Typist
+Word Processor
+DTP Operator
+Electronic Imager
+Electronic Publisher
+Insurance Claims Clerk
+Insurance Clerk
+Underwriting Assistant
+Underwriting Clerk
+Direct Mail Clerk
+Mailroom Clerk
+Packaging Clerk
+Administrative Clerk
+Office Assistant
+Office Clerk
+Real Estate Clerk
+Coin Machine Operator
+Collator Operator
+Copy Center Operator
+Copy Machine Operator
+Braille Proofreader
+Clerical Proofreader
+Copy Reader
+Editorial Assistant
+Format Proofreader
+Proofreader
+Actuarial Assistant
+Actuary Clerk
+Statistical Clerk
+Tariff Compiling Clerk
+Braille Transcriber
+Envelope Stuffer
+Fingerprint Clerk
+Investigation Clerk
+Newspaper Inserter
+Notary Public
+Corn Crop Supervisor
+Corral Boss
+Farm Supervisor
+Farrowing Manager
+Feed Manager
+Harvest Manager
+Planting Supervisor
+Ranch Hand Supervisor
+Cattle Examiner
+Cattle Inspector
+Grain Sampler
+Milk Tester
+Wheat Inspector
+Cat Breeder
+Dairy Husbandry Worker
+Dog Breeder
+Equine Breeder
+Horse Breeder
+Livestock Breeder
+Poultry Inseminator
+Stallion Manager
+Apple Sorter
+Cherry Sorter
+Cotton Grader
+Egg Grader
+Fruit Sorter
+Meat Grader
+Oyster Sorter
+Peanut Grader
+Potato Sorter
+Seed Sorter
+Strawberry Sorter
+Vegetable Sorter
+Wool Grader
+Combine Driver
+Combine Operator
+Cotton Ginner
+Cotton Picker Operator
+Custom Harvester
+Farm Tractor Operator
+Feed Mixer Operator
+Hay Baler
+Hay Stacker Operator
+Rake Operator
+Tractor Operator
+Wheat Combine Driver
+Cane Cutter
+Carrot Harvester
+Citrus Picker
+Corn Picker
+Cotton Picker
+Crop Picker
+Flower Picker
+Harvest Worker
+Harvester
+Orchard Hand
+Orchard Worker
+Pecan Gatherer
+Pepper Picker
+Vineyard Tender
+Aquaculture Worker
+Barn Hand
+Barn Worker
+Cattle Brander
+Cattle Driver
+Chicken Handler
+Chicken Vaccinator
+Cow Tender
+Egg Gatherer
+Farrowing Worker
+Goat Herder
+Groom
+Hatchery Worker
+Livestock Handler
+Poultry Debeaker
+Ranch Hand
+Sheep Shearer
+Shrimp Pond Laborer
+Crop Scout
+Irrigation Worker
+Livestock Showman
+Alligator Hunter
+Bird Trapper
+Commercial Crabber
+Commercial Fisher
+Crab Fisher
+Crabber
+Deer Hunter
+Fishing Boat Captain
+Fur Trapper
+Lobster Catcher
+Oyster Boat Laborer
+Seaweed Harvester
+Wild Oyster Harvester
+Forest Nursery Worker
+Forester Aide
+Forestry Laborer
+Pine Straw Gatherer
+Reforestation Worker
+Seedling Puller
+Lumberjack
+Pulpwood Cutter
+Timber Cutter
+Timber Faller
+Timber Feller
+Delimber Operator
+Feller Operator
+Grapple Operator
+Loader Operator
+Log Chipper Operator
+Log Hauler
+Log Loader Operator
+Log Processor Operator
+Log Stacker Operator
+Logging Crane Operator
+Tree Crusher Operator
+Tree-Shear Operator
+Log Check Scaler
+Log Grader
+Log Scaler
+Log Sorter
+Timber Estimator
+Veneer Grader
+Log Cutter
+Log Peeler
+Log Roper
+Logging Laborer
+Logging Swamper
+Rigging Slinger
+Timber Hand
+Carpenter Supervisor
+Drilling Foreman
+Electrician Supervisor
+Excavating Supervisor
+Foreman
+Foreperson
+Forewoman
+Quarry Boss
+Rig Supervisor
+Roustabout Crew Leader
+Tool Pushers
+Boiler Fitter
+Boiler Installer
+Boiler Mechanic
+Boiler Setter
+Boiler Tester
+Boilermaker Mechanic
+Adobe Layer
+Block Layer
+Blockmason
+Brick Chimney Builder
+Brick Setter
+Bricklayer
+Brickmason
+Brickmason Apprentice
+Firebrick Layer
+Furnace Mason
+Pottery Kiln Builder
+Refractory Bricklayer
+Banker Mason
+Curbstone Setter
+Granite Setter
+Memorial Mason
+Monument Mason
+Rock Mason
+Stone Chimney Mason
+Stone Layer
+Beam Builder
+Building Carpenter
+Construction Carpenter
+Counter Installer
+Finish Carpenter
+House Carpenter
+Wood Floor Layer
+Carpet Layer
+Cork Floor Installer
+Linoleum Installer
+Vinyl Installer
+Floor Finisher
+Floor Refinisher
+Floor Sander
+Floor Scraper
+Hardwood Finisher
+Ceramic Tile Installer
+Hard Tile Setter
+Parquet Floor Layer
+Tile Installer
+Tile Mason
+Wood Tile Installer
+Cement Mason
+Cement Patcher
+Concrete Finisher
+Concrete Mason
+Concrete Smoother
+Rustic Terrazzo Setter
+Terrazzo Finisher
+Terrazzo Grinder
+Terrazzo Installer
+Terrazzo Layer
+Terrazzo Setter
+Terrazzo Worker
+Air Hammer Operator
+Asphalt Paver
+Paver Operator
+Screed Operator
+Vibratory Pile Driver
+Angle Dozer Operator
+Blade Grader Operator
+Construction Excavator
+Grader Operator
+Motor Grader Operator
+Road Grader
+Scraper Operator
+Steam Shovel Operator
+Drywall Applicator
+Drywall Finisher
+Drywall Hanger
+Drywall Installer
+Drywall Sander
+Drywall Stripper
+Drywall Worker
+Sheet Rock Applier
+Sheet Rock Hanger
+Sheet Rock Installer
+Sheet Rock Worker
+Drywall Taper
+Sheet Rock Taper
+Wall Taper
+Chief Electrician
+Control Electrician
+Electrical Sign Wirer
+House Wirer
+Licensed Electrician
+Marine Electrician
+Master Electrician
+Stage Electrician
+Leaded Glass Installer
+Plate Glass Installer
+Stained Glass Glazier
+Stained Glass Joiner
+Window Glazier
+Cork Insulator
+Boiler Coverer
+Pipe Coverer
+Pipe Insulator
+Sheet Metal Insulator
+Bridge Painter
+Facilities Painter
+Highway Painter
+House Painter
+Industrial Painter
+Parking Line Painter
+Roof Painter
+Traffic Line Painter
+Billboard Poster
+Wallpaper Hanger
+Wallpaperer
+Pipe Layer
+Sewer Pipe Layer
+Trench Pipe Layer
+Water Main Pipe Layer
+Gas Main Fitter
+Gas Plumber
+Hydraulic Plumber
+Industrial Gas Fitter
+Marine Pipefitter
+Marine Steamfitter
+Master Plumber
+Pipe Fitter
+Plumber
+Sprinkler Fitter
+Steamfitter
+Water Pump Installer
+Dry Plasterer
+Molding Plasterer
+Ornamental Plasterer
+Plasterer Apprentice
+Stucco Plasterer
+Stucco Worker
+Rebar Worker
+Rod Buster
+Steel Rod Buster
+Steel Tier
+Composition Roofer
+Hot Tar Roofer
+Industrial Roofer
+Metal Roofing Mechanic
+Residential Roofer
+Sheet Metal Roofer
+Shingles Roofer
+Slate Roofer
+Terra Cotta Roofer
+Sheet Metal Fabricator
+Sheet Metal Former
+Sheet Metal Installer
+Tinsmith
+Bridge Ironworker
+Metal Tank Erector
+Ornamental Ironworker
+Steel Fabricator
+Steel Fitter
+Wind Turbine Erector
+PV Installer
+PV Panel Installer
+Solar PV Installer
+Adobe Layer Helper
+Brick Carrier
+Brick Washer
+Bricklayer Helper
+Chimney Builder Helper
+Firebrick Layer Helper
+Mortar Mixer
+Refractory Tile Helper
+Beam Builder Helper
+Carpenter Assistant
+Carpenter Helper
+House Carpenter Helper
+House Wirer Helper
+Bridge Painter Helper
+Dry Plasterer Helper
+Highway Painter Helper
+House Painter Helper
+Plaster Tender
+Ship Painter Helper
+Wallpaperer Helper
+Gas Main Fitter Helper
+Pipe Fitter Helper
+Plumber Assistant
+Plumber Helper
+Hot Tar Roofer Helper
+Roofer Assistant
+Roofer Helper
+Roofing Laborer
+Shingles Roofer Helper
+Slate Roofer Helper
+Boiler Coverer Helper
+Carpet Layer Helper
+Cork Insulator Helper
+Drywall Hanger Helper
+Drywall Taper Helper
+Linoleum Layer Helper
+Pipe Insulator Helper
+Rod Buster Helper
+Terrazzo Layer Helper
+Terrazzo Worker Helper
+Trench Digger Helper
+Wall Taper Helper
+Window Glazier Helper
+Bridge Inspector
+Building Inspector
+Construction Inspector
+Electrical Inspector
+Elevator Inspector
+Highway Inspector
+Home Inspector
+Plumbing Inspector
+Public Works Inspector
+Elevator Adjuster
+Elevator Constructor
+Elevator Installer
+Elevator Mechanic
+Escalator Installer
+Escalator Mechanic
+Fence Builder
+Wire Fence Builder
+Wood Fence Installer
+Asbestos Remover
+Decontamination Worker
+Hazard Waste Handler
+Hazmat Technician
+Lead Abatement Worker
+Highway Maintainer
+Highway Worker
+Lane Marker Installer
+Road Patcher
+Road Sign Installer
+Track Layer
+Track Machine Operator
+Track Maintainer
+Track Repair Worker
+Track Repairer
+Track Service Worker
+Trackwalker
+Septic Tank Cleaner
+Sewage Screen Operator
+Sewer Cleaner
+Sewer Pipe Cleaner
+Paver Installer
+Paving Stone Installer
+Waterproofer
+Derrick Operator
+Gas Derrick Operator
+Oil Derrick Operator
+Drilling Rig Operator
+Oil Driller
+Oil Rig Driller
+Oil Well Driller
+Prospecting Driller
+Well Services Operator
+Dragline Oiler
+Mining Excavator
+Mining Shovel Operator
+Blast Hole Driller
+Churn Drill Operator
+Churn Driller
+Earth Auger Operator
+Rock Drill Operator
+Blast Setter
+Blaster
+Dynamite Shooter
+Dynamiter
+Explosive Technician
+Tier and Detonator
+Bore Miner Operator
+Roof Bolter Operator
+Coal Hauler Operator
+Coke Loader
+Joy Loader
+Long Wall Operator
+Long Wall Shearer
+Rock Dust Sprayer
+Rock Duster
+Shale Planer Operator
+Shearer Operator
+Sandstone Splitter
+Gas Floorhand
+Oil and Gas Floorhand
+Oil Field Roustabout
+Oil Rig Floorhand
+Oil Rig Roughneck
+Roustabout
+Roustabout Pusher
+Blaster Helper
+Blasting Helper
+Driller Helper
+Mining Helper
+Roof Bolter Helper
+Mine Milling Worker
+Mine Tailings Worker
+Body Shop Supervisor
+ATM Servicer
+Cash Register Servicer
+Computer Repairer
+Copier Technician
+Radio Mechanic
+Radio Repairer
+Headend Technician
+Switchboard Wirer
+Aircraft Electrician
+Airplane Electrician
+AC/DC Rewinder
+Armature Rewinder
+Battery Repairer
+Dynamo Repairer
+Electric Motor Fitter
+Locomotive Electrician
+Missile Pad Mechanic
+Powerhouse Electrician
+Relay Technician
+Substation Electrician
+Substation Mechanic
+Auto Electrician
+Auto Phone Installer
+Auto Radio Mechanic
+Automotive Electrician
+Car Alarm Installer
+Car Stereo Installer
+Electric Organ Checker
+Home Theater Installer
+Television Installer
+Television Repairer
+Alarm Adjuster
+Alarm Technician
+Fire Alarm Installer
+Fire Alarm Technician
+A&P Mechanic
+Airframe Mechanic
+Airplane Rigger
+Flight Test Mechanic
+Helicopter Mechanic
+Jet Engine Mechanic
+Auto Body Customizer
+Auto Body Technician
+Auto Body Worker
+Body Shop Worker
+Car Refinisher
+Truck Body Repairer
+Vehicle Body Sander
+Auto Glass Installer
+Auto Glass Mechanic
+Automotive Glazier
+Windshield Installer
+Auto Clutch Rebuilder
+Auto Clutch Specialist
+Hybrid Car Mechanic
+Diesel Engine Fitter
+School Bus Mechanic
+Combine Mechanic
+Harvester Mechanic
+Tractor Mechanic
+Bulldozer Mechanic
+Dragline Mechanic
+Forklift Mechanic
+Forklift Technician
+Freight Car Repairer
+Mine Car Mechanic
+Rail Car Mechanic
+Streetcar Repairer
+Subway Car Repairer
+Tank Car Reconditioner
+Trolley Car Mechanic
+Trolley Car Overhauler
+Marine Technician
+Motorboat Mechanic
+Outboard Technician
+ATV Technician
+Motor Scooter Mechanic
+Motorcycle Repairer
+Motorcycle Technician
+Scooter Mechanic
+Chain Saw Mechanic
+Edge Trimmer Mechanic
+Go-Cart Mechanic
+Golf Cart Mechanic
+Lawn Mower Repairer
+Power Saw Mechanic
+Snowblower Mechanic
+Snowmobile Mechanic
+Bicycle Mechanic
+Bike Mechanic
+RV Mechanic
+RV Servicer
+Auto Tire Worker
+Tire Balancer
+Tire Fixer
+Tire Mechanic
+Tire Mounter
+Tire Servicer
+Tire Technician
+Door Closer Mechanic
+Garage Door Technician
+Air Valve Mechanic
+Gas Meter Installer
+Gas Meter Mechanic
+Thermostat Repairer
+Valve Mechanic
+Water Meter Installer
+Bulk Cooler Installer
+Furnace Converter
+Furnace Fitter
+Gas Furnace Installer
+Oil Burner Repairer
+Oil Furnace Installer
+Stoker Installer
+Gas Appliance Repairer
+Gas Appliance Servicer
+Stove Installer
+Bag Machine Adjuster
+Boilerhouse Mechanic
+Loom Fixer
+Loom Technician
+Crane Oiler
+Machine Erector
+Machinery Dismantler
+Maintenance Millwright
+Cupola Repairer
+Kiln Door Builder
+Ladle Repairer
+Refractory Repairer
+Electrical Lineworker
+Power Lineworker
+Fiber Optic Technician
+FIOS Line Installer
+Telephone Lineworker
+Camera Machinist
+Camera Repairer
+BMET
+Accordion Repairer
+Banjo Repairer
+Bow Rehairer
+Chip Tuner
+Guitar Builder
+Guitar Repairer
+Luthier
+Mandolin Repairer
+Organ Installer
+Organ Tuner
+Piano Regulator
+Piano Technician
+Piano Tuner
+Pipe Organ Technician
+Tone Regulator
+Violin Repairer
+Antique Clock Repairer
+Chronometer Repairer
+Clockmaker
+Clocksmith
+Horologist
+Time Piece Repairer
+Watchmaker
+Gyroscope Repairer
+Scale Adjuster
+Telescope Repairer
+Building Mechanic
+Maintenance Mechanic
+Mechanics Handyman
+Wind Energy Mechanic
+Wind Energy Technician
+Wind Turbine Mechanic
+Arcade Games Mechanic
+Coin Box Collector
+Juke Box Mechanic
+Slot Machine Mechanic
+Slot Technician
+Stamp Machine Servicer
+Vending Machine Filler
+Marine Diver
+Salvage Diver
+Scuba Diver
+Submarine Diver
+Underwater Welder
+Key Maker
+Keysmith
+Lock Expert
+Lock Fitter
+Lock Setter
+Lock Technician
+Locksmith
+Housetrailer Servicer
+Mobile Home Mechanic
+Mobile Home Servicer
+Mobile Home Technician
+Acrobatic Rigger
+Boat Rigger
+Crane Rigger
+Fly Rail Operator
+Gantry Rigger
+High Rigger
+Marine Rigger
+Parachute Rigger
+Ship Rigger
+Theatrical Rigger
+Wire Rigger
+Yacht Rigger
+Yard Rigger
+Rail Signal Mechanic
+Third Rail Installer
+Cable Splicer Helper
+Locksmith Helper
+Mechanic's Assistant
+Meter Repairer Helper
+Bowling Alley Mechanic
+Curtain Mender
+Fabric Awning Repairer
+Gunsmith
+Parachute Repairer
+Sail Repairer
+Ski Lift Mechanic
+Tarp Repairer
+Wheelwright
+Window Shade Installer
+Assembly Supervisor
+Die Cast Supervisor
+Machinist Supervisor
+Molding Supervisor
+Printing Supervisor
+Tool Room Supervisor
+Aircraft Layout Worker
+Aircraft Riveter
+Wing Coverer
+Coil Builder
+Coil Former
+Coil Winder
+Motor Rewinder
+Motor Winder
+Multiple Coil Winder
+Rotor Coil Taper
+Wire Coiler
+Wire Winder
+Anode Builder
+Armature Assembler
+Battery Assembler
+Battery Builder
+Breaker Unit Assembler
+Computer Assembler
+Electrical Assembler
+Electronic Assembler
+Electronic Wirer
+Switchbox Assembler
+Transformer Assembler
+Transformer Maker
+Engine Builder
+Gas Turbine Assembler
+Generator Assembler
+Jet Engine Assembler
+Machine Builder
+Mill Beam Fitter
+Fiberglass Fabricator
+Fiberglass Grinder
+Fiberglass Laminator
+Fiberglass Roller
+Fiberglass Ski Maker
+Fiberglasser
+Time Stamp Assembler
+Lead Team Assembler
+Air Bag Builder
+Auto Battery Builder
+Barrel Straightener
+Crate Builder
+Doll Maker
+Lure Maker
+Quilt Stuffer
+Bagel Maker
+Bread Baker
+Dough Maker
+Pastry Baker
+Pastry Finisher
+Pie Baker
+Pie Maker
+Butcher
+Butcher Apprentice
+Halal Butcher
+Kosher Butcher
+Meat Carver
+Meat Clerk
+Meat Counter Worker
+Crab Picker
+Deboner
+Fish Cutter
+Fish Filleter
+Frozen Meat Cutter
+Meat Trimmer
+Oyster Shucker
+Poultry Cutter
+Poultry Eviscerator
+Shrimp Peeler
+Shrimp Picker
+Wing Scorer
+Beef Splitter
+Cattle Killer
+Halal Meat Packer
+Hog Slaughterer
+Meat Packer
+Meat Processor
+Poultry Slaughterer
+Shochet
+Slaughterer
+Bean Roaster
+Coffee Roaster
+Fish Smoker
+Grain Roaster
+Meat Curer
+Meat Smoker
+Sausage Smoker
+Smokehouse Worker
+Tobacco Drier Operator
+Almond Paste Mixer
+Candy Maker
+Candy Puller
+Cheese Processor
+Cottage Cheese Maker
+Dough Scaler and Mixer
+Frozen Yogurt Maker
+Honey Blender
+Ice Cream Maker
+Liquid Sugar Fortifier
+Peanut Butter Maker
+Pickle Maker
+Relish Maker
+Taffy Puller
+Fish Fryer
+Pierogi Maker
+Potato Chip Frier
+Tripe Cooker
+Olive Pitter
+Pasta Press Operator
+Poultry Hanger
+Yeast Maker
+Wire Mill Rover
+Cold Header Operator
+Forging Roll Operator
+Header Setup Operator
+Spike Machine Operator
+Swager Operator
+Brass Roller
+Forming Roll Operator
+Pipe Straightener
+Steel Roller
+Metal Slitter
+Metal Stamper
+Aluminum Polisher
+Jewel Bearing Facer
+Metal Grinder
+Engine Lathe Operator
+Gear Cutter
+Screw Machine Operator
+Automotive Machinist
+CNC Machinist
+Gear Machinist
+Manual Lathe Machinist
+Precision Machinist
+Production Machinist
+Tool Room Machinist
+Melt Room Operator
+Smelter Operator
+Aluminum Pourer
+Ingot Caster
+Iron Pourer
+Molten Iron Pourer
+Steel Pourer
+Tin Pourer
+White Metal Caster
+Metal Mockup Maker
+Metal Patternmaker
+Airset Caster
+Airset Molder
+Core Stripper
+Foundry Molder
+Green Sand Molder
+No Bake Molder
+Sand Molder
+Wax Pattern Coater
+Blow Mold Operator
+Jig Bore Tool Maker
+Metal Die Finisher
+Metal Gauge Maker
+Tool Maker
+Toolmaker
+Aluminum Welder
+Arc Welder
+Brazer
+Cutting Torch Operator
+Pipe Welder
+Silver Solderer
+Sub Arc Operator
+Welder Fitter
+Wire Welder
+Brazing Machine Tender
+Machine Welder
+Reserve Tube Welder
+Wire Annealer
+Wire Temperer
+Shipfitter
+Shipfitter Apprentice
+Anodizer
+Chrome Plater
+Chromium Plater
+Copper Plater
+Electro Plater
+Electroplater
+Galvanizer
+Hard Chrome Plater
+Metal Plater
+Nickel Plater
+Tin Plater
+Tool Grinder
+Tool Sharpener
+Tool Straightener
+Tin Recovery Worker
+Photoengraver
+Plate Mounter
+Pre-Press Proofer
+Prepress Stripper
+Type Setter
+Digital Press Operator
+Gravure Press Operator
+Offset Press Operator
+Silk Screen Operator
+Silk Screen Printer
+Web Press Operator
+Bindery Worker
+Book Repairer
+Bookbinder
+Case Binder Operator
+Foil Stamp Operator
+Saddle Stitch Operator
+Spiral Binder Operator
+Drycleaner
+Launderer
+Laundress
+Laundry Attendant
+Laundry Operator
+Laundry Sorter
+Laundry Worker
+Precision Dyer
+Clothes Ironer
+Clothes Presser
+Clothing Presser
+Garment Presser
+Pants Presser
+Shirt Presser
+Silk Presser
+Wool Presser
+Cobbler
+Leather Lacer
+Leather Worker
+Luggage Repairer
+Saddle Maker
+Shoe Maker
+Shoe Repairer
+Shoemaker
+Insole Beveler
+Lacing Operator
+Pump Stitcher
+Shoe Cementer
+Sole Trimmer
+Hand Quilter
+Hand Sewer
+Hand Stitcher
+Hand Weaver
+Alterations Sewer
+Alterations Tailor
+Bridal Gown Fitter
+Coat Cutter
+Coat Maker
+Couture Dressmaker
+Dress Fitter
+Fur Tailor
+Garment Fitter
+Suit Maker
+Vest Maker
+Cloth Dyer
+Dye Range Operator
+Rug Dyer
+Skein Yarn Dyer
+Yarn Dyer
+Bedspread Cutter
+Canvas Cutter
+Cloth Cutter
+Twill Cutter
+Upholstery Cutter
+Jacquard Loom Weaver
+Knitter Operator
+Loom Operator
+Rope Machine Setter
+Roving Winder
+Twister Operator
+Winder Operator
+Drawbench Operator
+Fiber Machine Tender
+Clothing Patternmaker
+Fabric Pattern Grader
+Auto Upholsterer
+Chair Upholsterer
+Furniture Upholsterer
+Seating Upholsterer
+Feltmaker
+Swatch Maker
+Cabinet Builder
+Cabinetmaker
+Marquetry Worker
+Wood Working Assembler
+Cabinet Finisher
+Furniture Refinisher
+Furniture Sander
+Piano Refinisher
+Wood Cabinet Finisher
+Wood Die Maker
+Backup Sawyer
+Bandmill Operator
+Buzzsaw Operator
+Chop Saw Operator
+Circle Saw Operator
+Curve Saw Operator
+Cut Off Saw Operator
+Hardwood Sawyer
+Headrig Sawyer
+Panel Saw Operator
+Rip Saw Operator
+Stave Saw Operator
+Trim Saw Operator
+Roof Truss Builder
+Speed Belt Sander
+Tenon Operator
+Wood Lathe Operator
+Wood Planer
+Pole Framer
+Timber Framer
+Wood Carver
+Wood Casket Assembler
+Wood Veneer Taper
+Reactor Operator
+Substation Operator
+Powerhouse Operator
+Turbine Room Attendant
+Boiler Engineer
+Boiler Operator 
+Boiler Plant Operator
+Boiler Room Operator
+Sewage Plant Operator
+Wastewater Operator
+Water Plant Operator
+Nitrogen Operator
+Gas Controller
+Gas Plant Dispatcher
+Gas Plant Technician
+Hydrotreater Operator
+Oil Gauger
+Oil Pipeline Operator
+Oil Refiner
+Asphalt Plant Operator
+Lime Filter Operator
+Sand Plant Attendant
+Chemical Processor
+Brewmaster
+Fermentation Operator
+Fermenter
+Linseed Oil Temperer
+Milk Pasteurizer
+Milk Processor
+Molasses Preparer
+Pasteurizer
+Winemaker
+Beveller Operator
+Crusher Plant Operator
+Mix Crusher Operator
+Pulverizer Operator
+Hand Buffer
+Hand Sander
+Jewelry Grinder
+Jewelry Polisher
+Knife Grinder
+Ring Polisher
+Asphalt Blender
+Clay Mixer
+Concrete Batcher
+Dye Mixer
+Glue Mixer
+Ink Blender
+Ink Mixer
+Plaster Mixer
+Resin Mixer
+Fur Trimmer
+Hand Cloth Cutter
+Hand Fabric Cutter
+Insulation Cutter
+Paper Cutter
+Paper Slitter
+Rubber Trimmer
+Trimming Operator
+Bowling Ball Molder
+Brick Maker
+Cigarette Stamper
+Sugar Presser
+Tuber Operator
+Calciner Operator
+Dry Kiln Operator
+Lime Kiln Operator
+Lumber Kiln Operator
+Rubber Curer
+Soap Drier Tender
+Tunnel Kiln Operator
+Ampoule Examiner
+Bag Grader
+Cigarette Examiner
+Compressed Gas Tester
+Petroleum Sampler
+Quality Inspector
+Spark Plug Tester
+Diamond Grader
+Diamond Polisher
+Diamond Setter
+Facetor
+Gem Cutter
+Gemologist
+Goldsmith
+Jewelry Repairer
+Jewelsmith
+Lapidarist
+Pewterer
+Silversmith
+Crown Ceramist
+Dental Ceramist
+Dental Mold Maker
+Dental Technician
+Orthodontic Technician
+Arch-Support Maker
+Brace Maker
+Orthotics Fitter
+Orthotics Technician
+Prosthetics Technician
+Contact Lens Cutter
+Eyeglass Assembler
+Eyeglass Lens Cutter
+Eyeglass Maker
+Lens Grinder
+Lens Mounter
+Bottle Capper
+Bottle Line Worker
+Bottle Packer
+Can Filler
+Can Sealer
+Keg Filler
+Tea Bag Packer
+Ceramic Painter
+China Decorator
+Glass Decorator
+Lacquerer
+Sign Painter
+Aircraft Painter
+Auto Body Painter
+Auto Painter
+Automobile Refinisher
+Boat Painter
+Paint Line Operator
+Railroad Car Painter
+Wafer Fabricator
+Digital Photo Printer
+Digital Retoucher
+Film Printer
+Film Process Operator
+Film Processor
+Photo Lab Specialist
+Photo Lab Technician
+Photo Machine Operator
+Photo Print Specialist
+Photo Retoucher
+Print Retoucher
+CNC Machine Operator
+CNC Operator
+Welding Robot Operator
+Glue Line Operator
+Glue Machine Operator
+Glue Reel Operator
+Paper Gluing Operator
+Acid Dipper
+Degreaser Operator
+Pickle House Operator
+Chiller Operator
+Chiller Tender
+Freezer Operator
+Refrigeration Operator
+Engraver
+Glass Etcher
+Laser Engraver
+Machine Engraver
+Metal Engraver
+Pantograph Engraver
+Rotary Engraver
+Rubber Engraver
+Burial Vault Maker
+Cigar Roller
+Clay Modeler
+Concrete Vault Maker
+Glass Bender
+Glass Block Bender
+Glass Blower
+Glass Presser
+Glass Tube Bender
+Mannequin Mold Maker
+Neon Glass Bender
+Neon Glass Blower
+Neon Molder
+Neon Tube Bender
+Rubber Molder
+Stone Carver
+Box Fabricator
+Corrugator Operator
+Paper Machine Operator
+Auto Tire Recapper
+Retreader
+Tire Finisher
+Tire Molder
+Tire Retreader
+Blending Tank Helper
+Machinist Helper
+Slitter Helper
+Tailor Helper
+Welder Helper
+Woodworker Helper
+Air Cargo Supervisor
+Aircraft Loadmaster
+Warehouse Supervisor
+Crane Crew Supervisor
+Chief Ship Steward
+Flight Service Manager
+Gas Station Supervisor
+Airline Captain
+Airline Pilot
+Regional Airline Pilot
+Aerial Crop Duster
+Aerial Sprayer
+Agricultural Pilot
+Air Ambulance Captain
+Air Tour Pilot
+Balloon Pilot
+Corporate Pilot
+EMS Helicopter Pilot
+Executive Pilot
+Helicopter Pilot
+Control Tower Operator
+Enroute Controller
+Flight Steward
+Ambulance Attendant
+Bobtailer
+Delivery Sales worker
+Newspaper Deliverer
+Pizza Delivery Driver
+Route Sales Person
+Route Salesperson
+Sales Route Driver
+Auto Carrier Driver
+Cement Truck Driver
+Concrete Mixer Driver
+Dump Truck Driver
+Fuel Truck Driver
+Garbage Truck Driver
+Line Haul Driver
+Logging Truck Driver
+Over-the-Road Driver
+Semi-Truck Driver
+Tanker Driver
+Tow Truck Operator
+Parcel Truck Driver
+School Bus Driver
+School Bus Operator
+Charter Coach Driver
+Motor Coach Bus Driver
+Motor Coach Driver
+Airport Shuttle Driver
+Courtesy Car Driver
+Courtesy Van Driver
+Funeral Car Driver
+Hearse Driver
+Hotel Shuttle Driver
+Cab Driver
+Rideshare Cab Driver
+Assembly Line Driver
+Motorcycle Deliverer
+Freight Engineer
+Railroad Engineer
+Railway Engineer
+Train Engineer
+Coal Tram Driver
+Dinkey Driver
+Dinkey Operator
+Engine Hostler
+Railcar Switcher
+Yard Hostler
+Dinkey Engine Firer
+Freight Brake Operator
+Railroad Firer
+Switch Coupler
+Train Brake Operator
+Freight Conductor
+Train Conductor
+Yard Conductor
+Light Rail Operator
+Rapid Transit Operator
+Subway Conductor
+Subway Train Operator
+Tram Operator
+Trolley Car Operator
+Retarder Operator
+Able Seaman
+Deck Cadet
+Deck Hand
+Deckhand
+Merchant Mariner
+Merchant Seaman
+Ordinary Seaman
+Sailor
+Vessel Ordinary Seaman
+Barge Captain
+Barge Master
+Boat Pilot
+Car Ferry Captain
+Car Ferry Master
+Coastal Tug Mate
+Deck Officer
+Docking Pilot
+Ferry Boat Captain
+Ferry Captain
+Ferryboat Captain
+First Mate
+Harbor Boat Pilot
+Harbor Pilot
+Harbor Tug Captain
+Port Captain
+River Boat Captain
+River Pilot
+Sailboat Captain
+Ship Harbor Pilot
+Tow Boat Captain
+Towboat Pilot
+Tug Boat Captain
+Tugboat Captain
+Tugboat Mate
+Tugboat Operator
+Tugboat Pilot
+Launch Operator
+Speedboat Driver
+Speedboat Operator
+Water Taxi Operator
+Barge Engineer
+Ferry Engineer
+Towboat Engineer
+Tug Boat Engineer
+Tugboat Engineer
+Bridge Operator
+Bridge Tender
+Dam Tender
+Lighthouse Keeper
+Lock and Dam Operator
+Auto Parker
+Car Jockey
+Parking Ramp Attendant
+Valet Parker
+Valet Runner
+Gas and Oil Servicer
+Gas Pump Attendant
+Gas Station Attendant
+Oil Changer
+Pump Jockey
+Aircraft De-Icer
+Aircraft Refueler
+Airplane Refueler
+Aircraft Inspector
+Freight Inspector
+Locomotive Inspector
+Railroad Car Inspector
+Railroad Inspector
+School Bus Inspector
+Dining Car Steward
+Ship Steward
+Train Attendant
+Pedicab Driver
+Rickshaw Driver
+Ash Conveyor Operator
+Assembly Line Tender
+Conveyor Belt Operator
+Conveyor Tender
+Packing Line Operator
+Boom Crane Operator
+Bridge Crane Operator
+Cherry Picker Operator
+Coal Tower Operator
+Port Crane Operator
+Scrap Crane Operator
+Tower Loader Operator
+Dredge Deckhand
+Dredge Engineer
+Dredge Mate
+Dredger
+Hoist Operator
+Winch Derrick Operator
+Winch Operator
+Forklift Driver
+Forklift Operator
+Hydraulic Lift Driver
+Stacker Operator
+Aircraft Cleaner
+Auto Cleaner
+Auto Detailer
+Automobile Detailer
+Beer Coil Cleaner
+Boat Detailer
+Bus Cleaner
+Bus Washer
+Car Wash Attendant
+Car Washer
+Equipment Cleaner
+Machine Cleaner
+Railroad Car Cleaner
+Truck Washer
+Cargo Handler
+Cart Pusher
+Freight Handler
+Grave Digger
+Manufacturing Laborer
+Material Handler
+Package Handler
+Van Loader
+Wharf Laborer
+Brick Offbearer
+Chain Offbearer
+Chopper Feeder
+Doffer
+Dryer Feeder
+Hopper Feeder
+Hopper Filler
+Line Feeder
+Offbearer
+Spike Machine Feeder
+Spinning Doffer
+Spooler Operator
+Bagger
+Carton Wrapper
+Egg Packer
+Gift Wrapper
+Grocery Store Bagger
+Meat Packager
+Meat Wrapper
+Utility Bagger
+Grocery Stocker
+Night Stocker
+Retail Stocker
+Store Stocker
+Warehouse Stocker
+Gas Cylinder Processor
+Gas Storage Operator
+LNG Plant Operator
+Acid Pump Operator
+Brewery Pumper
+Concrete Pump Operator
+Fluid Pump Operator
+Oil Field Pumper
+Oil Well Pumper
+Garbage Collector
+Refuse Collector
+Scrap Metal Collector
+Solid Waste Collector
+Trash Collector
+Barge Loader
+Bulk Tank Car Unloader
+Dock Loader
+Rail Car Loader
+Rail Loader
+Ship Unloader
+Tank Car Loader
+Tank Truck Loader
+Back Hoe Operator
+Backhoe Operator
+Bulldozer Operator
+End Loader Operator
+Payloader Operator
+Shovel Operator
+Helicopter Officer
+Flight Deck Officer
+Landing Signal Officer
+Armor Officer
+Cavalry Officer
+Tank Officer
+Ammunition Officer
+Naval Gunfire Spotter
+Ordnance Officer
+Weapons Officer
+Air Battle Manager
+C4 Planner
+Combat Control Officer
+Combat Systems Officer
+Command And Control
+Sea-Air-Land Officer
+Air Boatswain
+Counter Intelligence
+Human Intelligence
+Imagery Intelligence
+Intelligence
+Intelligence Officer
+Minesweeping Officer
+Mission Commander
+Navy Airspace Officer
+Parachute Officer
+Parachutist (Officer)
+Space Operations
+Staff Weapons Officer
+Weapons
+C-40a Crew Chief
+Armor Senior Sergeant
+Infantry Unit Leader
+Air Operations Manager
+Combat Control Manager
+Cryptologic Supervisor
+Intelligence Chief
+Intelligence Manager
+Aerial Gunner
+Airborne Operations
+Airman
+Crew Chief
+Flight Engineer
+Helicopter Crew Chief
+Helicopter Specialist
+In-Flight Technician
+Naval Aircrewman
+Non-Acoustic Operator
+Reel System Operator
+Tiltrotor Crew Chief
+Transport Aircrewman
+Utility Aircrewman
+C-13 Catapult Operator
+Assault Boat Coxswain
+Cavalry Scout
+Lav Crewman
+Lcac Operator
+M1 Armor Crewman
+M1A1 Tank Crewman
+M48/M60 Tank Driver
+M48-M60 Armor Crewman
+M60a2 Armor Crewman
+Xm1 Tank Driver
+Anti-Tank Missileman
+Cannon Crewmember
+Field Artillery Basic
+Fire Controlman
+Fire Support Man
+Gunner's Mate
+Gunner's Mate G (Guns)
+Lance Crewmember
+Missile Technician
+Torpedoman's Mate
+Acds Block 1 Operator
+Command Post Craftsman
+Operations Specialist
+Operations Specialists
+Sensor Operator
+Infantry Assaultman
+Infantryman
+Machine Gunner
+Mortarman
+Rifleman
+Scout Sniper
+Scout-Sniper
+Parachutist
+Pararescue Craftsman
+Pararescue Manager
+Reconnaissance Man
+Cryptologic Technician
+Intelligence Analyst
+Signalman
+Tactical Debriefer

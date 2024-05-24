@@ -1,0 +1,101 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Improv Suggestion Generator</title>
+    <meta name="description" content="Generate a random word/emotion/location/job for your improv scene.">
+    <meta property="og:image" content="http://improvglasgow.co.uk/improv-suggestion-generator/preview.png" />
+    <link rel="shortcut icon" href="favicon.ico">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-CPRW62M52P"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-CPRW62M52P');
+    </script>
+
+</head>
+<body>
+    
+    <div class="container text-center">
+        <br />
+        <h4>Improv Suggestion Generator</h4>
+        <br />
+
+        <div class="col-md-6 offset-md-3">
+            <div class="jumbotron">
+                <h1 class="display-4" style="font-size: 30px">
+                    <span id="suggestion"></span>&nbsp;
+                </h1>
+            </div>
+        </div>
+
+        <button class="btn btn-lg btn-primary" onclick="GetRandomSuggestion('words.txt')">Word</button>
+        <button class="btn btn-lg btn-success" onclick="GetRandomSuggestion('emotions.txt')">Emotion</button>
+        <button class="btn btn-lg btn-secondary" onclick="GetRandomSuggestion('locations.txt')">Location</button>
+        <button class="btn btn-lg btn-danger" onclick="GetRandomSuggestion('jobs.txt')">Job</button>
+
+        <br /><br /><br /><br />
+
+        <button class="btn btn-lg btn-light" type="submit" onclick="GetRandomWikiArticle()">Random Wikipedia Article</button>
+        <br /><br />
+        <button class="btn btn-lg btn-light" type="submit" onclick="GetRandomSong()">Random Song</button>
+        <br /><br />
+        <button class="btn btn-lg btn-light" type="submit" onclick="GetRandomSuggestion('mobydick.txt')">Random Line from Moby Dick</button>
+        <br /><br />
+        <a href='https://play.google.com/store/apps/details?id=improv.suggestion.generator&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' style='width:200px' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
+        <br /> <br />
+
+        <p class="small text-muted">Made by Martin for the <a href="https://improvglasgow.co.uk">Glasgow Improv Theatre</a></p>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script>
+
+    <script type="text/javascript">
+        function GetRandomSuggestion(filename) {
+            $.get(filename, function (data) {
+                var lines = data.split("\n");
+                var randomNumber = Math.floor(Math.random() * lines.length);
+                var suggestion = lines[randomNumber];
+                showSuggestion(suggestion);
+            });
+        }
+
+        function showSuggestion(text) {
+            $("#suggestion").hide();
+            $("#suggestion").html(text);
+            $("#suggestion").fadeIn();
+        }
+        
+        function GetRandomWikiArticle() {
+            var url = "https://en.wikipedia.org/w/api.php?action=query&format=json&list=random&rnnamespace=0&rnlimit=1&origin=*";
+
+            $.get(url, function (data) {
+                var title = data.query.random[0].title;
+                showSuggestion(title);
+            });
+        }
+
+        function GetRandomSong() {
+            var url = "//ws.audioscrobbler.com/2.0/?method=chart.gettoptracks&api_key=830baea2583ced9ccfee905eb1a9667c&format=json&limit=1000";
+            
+            $.get(url, function (data) {
+                var randomNumber = Math.floor(Math.random() * 50);
+                var track = data.tracks.track[randomNumber];
+                var artist = track.artist.name;
+                var title = track.name;
+                var link = " (<a href='" + track.url + "' target='_blank'>link</a>)";
+                showSuggestion(artist + " - " + title + link);
+            });
+
+        }
+
+    </script>
+</body>
+</html>

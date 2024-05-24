@@ -1,0 +1,191 @@
+---
+layout: default
+title: Shows
+---
+   <style>
+        .lds-ring {
+        display: inline-block;
+        position: relative;
+        width: 80px;
+        height: 80px;
+        }
+        .lds-ring div {
+        box-sizing: border-box;
+        display: block;
+        position: absolute;
+        width: 64px;
+        height: 64px;
+        margin: 8px;
+        border: 8px solid #000;
+        border-radius: 50%;
+        animation: lds-ring 1.2s cubic-bezier(0.5, 0, 0.5, 1) infinite;
+        border-color: #000 transparent transparent transparent;
+        }
+        .lds-ring div:nth-child(1) {
+        animation-delay: -0.45s;
+        }
+        .lds-ring div:nth-child(2) {
+        animation-delay: -0.3s;
+        }
+        .lds-ring div:nth-child(3) {
+        animation-delay: -0.15s;
+        }
+        @keyframes lds-ring {
+        0% {
+            transform: rotate(0deg);
+        }
+        100% {
+            transform: rotate(360deg);
+        }
+        }
+
+    </style>
+
+    <div class="col-md-4 mb-4 mx-auto text-center">
+        <h2>Glasgow Improv Theatre events!</h2>
+        <br />
+                <form></form>
+        <div class="text-center mb-4">
+            <label>Filter: </label>
+            <div class="form-check form-check-inline">
+                <input class="form-check-input" type="radio" name="filter" id="all" value="all" checked onclick="applyFilter()">
+                <label class="form-check-label" for="all">All events</label>
+            </div>
+            <div class="form-check form-check-inline">
+                <input class="form-check-input" type="radio" name="filter" id="shows" value="shows" onclick="applyFilter()">
+                <label class="form-check-label" for="shows">Shows</label>
+            </div>
+            <div class="form-check form-check-inline">
+                <input class="form-check-input" type="radio" name="filter" id="workshops" value="workshops" onclick="applyFilter()">
+                <label class="form-check-label" for="workshops">Workshops</label>
+            </div>
+        </div>
+        <div class="" id="event-container">
+            <p class="text-center">Loading...</p>
+            <div class="lds-ring"><div></div><div></div><div></div><div></div></div>
+        </div>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script>
+
+    <script type="text/javascript">
+
+        var allEventsData;
+
+        $(function() {
+            GetShows();
+        });
+        
+        function GetShows() {
+            var url = "https://www.eventbriteapi.com/v3/organizations/568772580943/events/?token=H2CWEK4JO55AWX2WB666&time_filter=current_future&expand=ticket_availability,venue&status=live";
+
+            $.get(url, function (data) {
+                console.log(data);
+                allEventsData = data;
+                applyFilter(); 
+                preselectFilterFromHash();
+            });
+        }
+        
+        function preselectFilterFromHash() {
+            var filterHash = window.location.hash.substr(1); 
+
+            if (filterHash) {
+                $("input[name='filter']").prop('checked', false); 
+                $("#" + filterHash).prop('checked', true); 
+                applyFilter(); 
+            }
+        }
+
+        function applyFilter() {
+          var selectedFilter = $("input[name='filter']:checked").val();
+          var filteredEvents;
+
+          switch (selectedFilter) {
+              case "workshops":
+                  filteredEvents = allEventsData.events.filter(event => event.name.text.toLowerCase().includes("course") || event.name.text.toLowerCase().includes("workshop"));
+                  break;
+              case "shows":
+                  filteredEvents = allEventsData.events.filter(event => !event.name.text.toLowerCase().includes("course") && !event.name.text.toLowerCase().includes("workshop"));
+                  break;
+              default:
+                  filteredEvents = allEventsData.events;
+                  break;
+          }
+
+          $("#event-container").empty();
+
+          var eventsByDate = {};
+
+          filteredEvents.forEach(event => {
+              var startDate = new Date(event.start.local);
+              var dateFormatted = startDate.toLocaleString('en-GB', {
+                  weekday: 'long',
+                  day: 'numeric',
+                  month: 'short',
+                  year: 'numeric'
+              }).replace(/,/g, '');
+              var timeFormatted = startDate.toLocaleString('en-GB', {
+                  hour: 'numeric',
+                  minute: 'numeric',
+                  hour12: true
+              });
+
+              var dateKey = dateFormatted;
+
+              if (!eventsByDate[dateKey]) {
+                  eventsByDate[dateKey] = [];
+              }
+
+              eventsByDate[dateKey].push({ event, timeFormatted });
+          });
+
+          for (var dateKey in eventsByDate) {
+              var events = eventsByDate[dateKey];
+
+              var $dateContainer = $("<div>").addClass("mb-4");
+              var $dateHeader = $("<h3 class='text-center mb-3'>").text(dateKey).addClass("mb-3");
+
+              events.forEach(eventData => {
+                  var event = eventData.event;
+                  var timeFormatted = eventData.timeFormatted;
+
+                  var name = event.name["text"];
+                  var summary = event.summary;
+                  var url = event.url;
+                  var startDate = new Date(event.start.local);
+                  var imageUrl = event.logo.original["url"];
+                  var venue = event.venue["name"];
+                  var venueAddress = event.venue.address["localized_address_display"];
+                  var isSoldOut = event.ticket_availability["is_sold_out"];
+
+                  var $eventCard = $("<div>").addClass("card mb-3");
+                  var $eventImageLink = $("<a>").attr("href", url);
+                  var $eventImage = $("<img>").addClass("card-img-top").attr("src", imageUrl);
+                  var $eventCardBody = $("<div>").addClass("card-body text-center");
+                  var $eventName = $("<h5>").addClass("card-title").text(name);
+                  var $eventTime = $("<p>").addClass("card-text").text("Time: " + timeFormatted);
+                  var $eventDate = $("<p>").addClass("card-text").text("Date: " + dateKey);
+                  var $eventVenue = $("<p>").addClass("card-text").text("Venue: " + venue);
+                  var $eventAddress = $("<p>").addClass("card-text").text("Address: " + venueAddress);
+                  var $ticketLink = $("<a>").addClass("btn").attr("href", url);
+
+                  if (isSoldOut) {
+                      $ticketLink.text("Sold Out").addClass("btn-danger").prop("disabled", true);
+                  } else {
+                      $ticketLink.text("Get Tickets").addClass("btn-primary");
+                  }
+
+                  $eventImageLink.append($eventImage);
+                  $eventCardBody.append($eventName, $eventTime, $eventDate, $eventVenue, $eventAddress, $ticketLink);
+                  $eventCard.append($eventImageLink, $eventCardBody);
+                  $dateContainer.append($eventCard);
+              });
+
+              $dateContainer.prepend($dateHeader);
+              $("#event-container").append($dateContainer);
+          }
+      }
+
+
+    </script>

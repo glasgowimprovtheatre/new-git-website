@@ -1,0 +1,127 @@
+title: Glasgow Improv Theatre - The GIT
+email: glasgowimprovtheatre@gmail.com
+description: "Glasgow Improv Theatre - The GIT. Improv classes, workshops, and shows in Glasgow, Scotland."
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+mailing-list-link: https://dashboard.mailerlite.com/forms/402795/85431937313801728/share
+
+social:
+  - title: instagram
+    url: http://instagram.com/improvglasgow
+  - title: facebook
+    url: http://facebook.com/improvglasgow
+  - title: twitter
+    url: http://twitter.com/improvglasgow
+  - title: youtube
+    url: https://www.youtube.com/channel/UC7eUy-KQZLZS4rqLz_zQjnQ/
+#  - title: twitch
+#    url: http://twitch.tv/improvglasgow
+
+teams:
+  - name: Couch
+    icon: fa-couch
+    description: |
+      <p>
+          Couch are a long-form improv team from Glasgow. They were the first Glasgow Improv Theatre house team for Glasgow Harold Night. They have also been seen at Improv F*cktown, and Improv Cage Match.
+      </p>
+      <p>
+          Their members have trained at the Upright Citizens Brigade Theatre, and have performed at festivals such as DCM in New York and the Edinburgh Fringe Festival. 
+      </p>
+      <p>
+          They are going to do a Harold and need a suggestion to get started. Or they are going to do their Improv Spotify show, please add songs to their playlist.
+      </p>
+    socials:
+      - title: twitter
+        url: http://twitter.com/couchimprov
+
+      - title: facebook
+        url: http://facebook.com/couchimprov
+
+      - title: instagram
+        url: http://instagram.com/couchimprov
+
+  - name: Yer Da
+    icon: fa-users
+    description: |
+      <p>
+          The test to determine who Yer Da is came back inconclusive, but this bunch of improvisers will perform for your acceptance anyway.
+      </p>
+      <p>
+          You'll find them performing monthly at Glasgow Improv Theatre in their show Yer Da Wants a Word where they do a set (probably a Haroldy montage, it makes sense honest) before hosting arguably the funnest improv jam around.
+      </p>
+      <p>
+          Team members have been spotted doing guest appearances on legendary podcast Improv4Humans, Will Hines' How Was Your Week and in late night Edinburgh improv show Dating Crapp.
+      </p>
+    socials: 
+      - title: instagram
+        url: http://instagram.com/yerdaimprov
+        
+  - name: Family Dinner
+    icon: fa-utensils
+    description: |
+      <p>
+          GIT House team at Glasgow Harold Night
+      </p>
+      <p>
+          Welcome to Family Dinner: Serving up some seriously funny improv and good clean fun that the whole family can enjoy
+      </p>
+    socials: 
+      - title: instagram
+        url: http://instagram.com/familydinner_improv
+
+  - name: Ghost Fish
+    icon: fa-ghost
+    description: |
+      <p>
+          GIT House team at Glasgow Harold Night
+      </p>
+      <p>
+          One of the all-time great improv groups - hugely influential in the sea, and the standard-bearers for how good, funny and artful long-form improv could be. At their best, they could play manic silliness and slow, patient moments in the same show. They're all dead humans who are now human-looking ghost fish.
+      </p>
+    socials: 
+      - title: instagram
+        url: http://instagram.com/familydinner_improv
+
+
+former-teams:
+  - name: One Big Jacket
+    icon: fa-tshirt
+    description: |
+      <p>
+          GIT House team at Glasgow Harold Night
+      </p>
+      <p>
+          One Big Jacket are warm, versatile and entirely waterproof. Made from several sustainably sourced improvisers and held together by the Harold structure.
+          <br />** Must not be washed above 40°C
+      </p>
+    socials: 
+      - title: instagram
+        url: http://instagram.com/onebigjacket.improv
+
+  - name: God's Lettuce
+    icon: fa-leaf
+    description: |
+      <p>
+          GIT House team at Glasgow Harold Night
+      </p>
+      <p>
+          With members from Glasgow to Edinburgh, and even Falkirk, God’s Lettuce provides a diverse range of funny. Cool cats coming at ya large, as the Lettuce intended.
+      </p>
+    socials: 
+      - title: instagram
+        url: http://instagram.com/gods.lettuce.improv
+        
+  - name: President Dog
+    icon: fa-dog
+    description: |
+      <p>
+          GIT House team at Glasgow Harold Night
+      </p>
+      <p>
+          President Dog have a legally elected mandate to make you laugh
+      </p>
+    socials: 
+      - title: instagram
+        url: http://instagram.com/presidentdogimprov
