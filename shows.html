@@ -80,7 +80,6 @@ title: Shows
             var url = "https://www.eventbriteapi.com/v3/organizations/568772580943/events/?token=H2CWEK4JO55AWX2WB666&time_filter=current_future&expand=ticket_availability,venue&status=live";
 
             $.get(url, function (data) {
-                console.log(data);
                 allEventsData = data;
                 applyFilter(); 
                 preselectFilterFromHash();
@@ -152,8 +151,6 @@ title: Shows
 
                   var name = event.name["text"];
                   var summary = event.summary;
-                  console.log(event);
-                  console.log(event.summary);
                   var url = event.url;
                   var startDate = new Date(event.start.local);
                   var imageUrl = event.logo.original["url"];
