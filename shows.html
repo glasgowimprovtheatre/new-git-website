@@ -152,6 +152,8 @@ title: Shows
 
                   var name = event.name["text"];
                   var summary = event.summary;
+                  console.log(event);
+                  console.log(event.summary);
                   var url = event.url;
                   var startDate = new Date(event.start.local);
                   var imageUrl = event.logo.original["url"];
@@ -164,6 +166,7 @@ title: Shows
                   var $eventImage = $("<img>").addClass("card-img-top").attr("src", imageUrl);
                   var $eventCardBody = $("<div>").addClass("card-body text-center");
                   var $eventName = $("<h5>").addClass("card-title").text(name);
+                  var $eventSummary = $("<p>").addClass("card-text").text(summary);
                   var $eventTime = $("<p>").addClass("card-text").text("Time: " + timeFormatted);
                   var $eventDate = $("<p>").addClass("card-text").text("Date: " + dateKey);
                   var $eventVenue = $("<p>").addClass("card-text").text("Venue: " + venue);
@@ -177,7 +180,7 @@ title: Shows
                   }
 
                   $eventImageLink.append($eventImage);
-                  $eventCardBody.append($eventName, $eventTime, $eventDate, $eventVenue, $eventAddress, $ticketLink);
+                  $eventCardBody.append($eventName, $eventSummary, $eventTime, $eventDate, $eventVenue, $eventAddress, $ticketLink);
                   $eventCard.append($eventImageLink, $eventCardBody);
                   $dateContainer.append($eventCard);
               });
