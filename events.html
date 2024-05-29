@@ -107,6 +107,9 @@ title: Events
             }
         }
 
+        $(window).on('hashchange', function() {
+            preselectFilterFromHash();
+        });
         function applyFilter() {
           var selectedFilter = $("input[name='filter']:checked").val();
           var filteredEvents;
